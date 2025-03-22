@@ -1,0 +1,44 @@
+Giocatore,Tipo di tiro,Risultato,"Coordinate (x, y)",Assist,Tempo,Quarto,Punti
+Johnson,24' 3PT Jump Shot,Made,"(485.0, 84.0)",Russell (1),11:37,Q1,3
+Nesmith,26' 3PT Jump Shot,Miss,"(486.99999999999994, 166.99999999999997)",,11:11,Q1,0
+Siakam,16' Jump Shot,Miss,"(333.0, 186.0)",,11:07,Q1,0
+Russell,25' 3PT Step Back Jump Shot,Miss,"(196.0, 291.0)",,10:51,Q1,0
+Siakam,9' Running Layup,Miss,"(172.0, 87.0)",,10:45,Q1,0
+Wilson,25' 3PT Jump Shot,Miss,"(484.0, 140.0)",,10:33,Q1,0
+Johnson,3PT Jump Shot,Miss,"(483.0, 64.0)",,10:09,Q1,0
+Williams,1' Running Dunk,Made,"(243.0, 53.0)",,09:53,Q1,2
+Nembhard,3' Driving Finger Roll Layup,Made,"(278.0, 55.0)",,09:47,Q1,2
+Claxton,2' Alley Oop Dunk,Made,"(249.0, 69.0)",Johnson (1),09:24,Q1,2
+Turner,16' Jump Shot,Made,"(225.0, 207.00000000000003)",Mathurin (1),09:03,Q1,2
+Russell,15' Driving Floating Jump Shot,Miss,"(157.0, 166.99999999999997)",,08:48,Q1,0
+Nembhard,12' Running Pull-Up Jump Shot,Miss,"(170.0, 138.0)",,08:40,Q1,0
+Russell,3PT Jump Shot,Miss,"(28.000000000000007, 63.0)",,08:30,Q1,0
+Mathurin,27' 3PT Jump Shot,Miss,"(141.0, 298.0)",,08:08,Q1,0
+Martin,24' 3PT Jump Shot,Miss,"(493.0, 66.0)",,07:56,Q1,0
+Nembhard,17' Pullup Jump Shot,Miss,"(377.0, 163.0)",,07:49,Q1,0
+Russell,8' Driving Layup,Miss,"(295.0, 113.0)",,07:32,Q1,0
+Mathurin,1' Running Finger Roll Layup,Made,"(259.0, 58.0)",Siakam (1),07:26,Q1,2
+Russell,25' 3PT Jump Shot,Miss,"(477.0, 160.0)",,07:13,Q1,0
+Russell,25' 3PT Running Jump Shot,Miss,"(468.0, 174.0)",,06:58,Q1,0
+Siakam,4' Driving Layup,Made,"(230.0, 79.0)",Nembhard (1),06:50,Q1,2
+Watford,3' Driving Layup,Made,"(223.0, 69.0)",,06:33,Q1,2
+Williams,Running Dunk,Made,"(250.0, 50.0)",Martin (1),06:12,Q1,4
+Claxton,5' Driving Layup,Miss,"(212.0, 80.0)",,05:39,Q1,0
+Nesmith,24' 3PT Running Jump Shot,Made,"(486.99999999999994, 50.0)",Mathurin (2),05:31,Q1,5
+Mathurin,3' Driving Layup,Miss,"(279.0, 66.0)",,05:05,Q1,0
+Williams,27' 3PT Jump Shot,Made,"(390.0, 276.0)",Watford (1),04:45,Q1,7
+Nembhard,27' 3PT Jump Shot,Miss,"(80.0, 259.0)",,04:24,Q1,0
+Lewis,3' Running Reverse Layup,Miss,"(249.0, 81.0)",,04:18,Q1,0
+Turner,27' 3PT Jump Shot,Miss,"(118.99999999999999, 287.0)",,04:10,Q1,0
+Mathurin,26' 3PT Pullup Jump Shot,Made,"(281.0, 310.0)",,03:31,Q1,5
+Lewis,26' 3PT Jump Shot,Made,"(120.0, 275.0)",Martin (2),03:08,Q1,3
+McConnell,12' Pullup Jump Shot,Miss,"(233.0, 170.0)",,02:50,Q1,0
+Clowney,26' 3PT Jump Shot,Miss,"(77.0, 243.0)",,02:42,Q1,0
+Clowney,26' 3PT Jump Shot,Made,"(61.99999999999999, 234.0)",Martin (3),01:56,Q1,3
+Nesmith,13' Fadeaway Jumper,Made,"(120.0, 62.0)",,01:35,Q1,7
+Martin,1' Driving Dunk,Made,"(260.0, 58.0)",Sharpe (1),01:22,Q1,2
+Toppin,3PT Jump Shot,Miss,"(477.0, 50.0)",,01:11,Q1,0
+Watford,2' Reverse Layup,Made,"(262.0, 67.0)",Martin (4),00:22,Q1,5
+Toppin,2' Driving Finger Roll Layup,Miss,"(230.0, 50.0)",,00:11,Q1,0
+Watford,26' 3PT Running Pull-Up Jump Shot,Made,"(433.0, 229.0)",Clowney (1),00:02,Q1,8
+Toppin,67' 3PT Jump Shot,Miss,"(66.99999999999999, 470.0)",,00:00,Q1,0
