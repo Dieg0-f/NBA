@@ -1,0 +1,937 @@
+2025-04-19 18:19:54,386 - INFO - Trovati 1323 link
+2025-04-19 18:19:54,386 - INFO - Trovati 591 players
+2025-04-19 18:19:54,387 - INFO - Da elaborare 101 link su 1323 totali
+2025-04-19 18:19:54,387 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-nyk-0022300065/play-by-play?period=All
+2025-04-19 18:19:54,387 - INFO - ====== WebDriver manager ======
+2025-04-19 18:19:54,387 - INFO - Caricamento pagina: https://www.nba.com/game/mia-vs-bos-0022300080/play-by-play?period=All
+2025-04-19 18:19:54,388 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-was-0022300103/play-by-play?period=All
+2025-04-19 18:19:54,388 - INFO - ====== WebDriver manager ======
+2025-04-19 18:19:54,388 - INFO - Caricamento pagina: https://www.nba.com/game/ind-vs-bos-0022300118/play-by-play?period=All
+2025-04-19 18:19:54,388 - INFO - ====== WebDriver manager ======
+2025-04-19 18:19:54,389 - INFO - ====== WebDriver manager ======
+2025-04-19 18:19:54,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:19:54,609 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:19:54,611 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:19:54,614 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:19:54,615 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:00,067 - INFO - Scraped 482 azioni per bos-vs-was-0022300103
+2025-04-19 18:20:01,596 - INFO - Scraped 472 azioni per ind-vs-bos-0022300118
+2025-04-19 18:20:01,701 - INFO - Scraped 513 azioni per bos-vs-nyk-0022300065
+2025-04-19 18:20:02,021 - INFO - Elaborazione completata per bos-vs-was-0022300103
+2025-04-19 18:20:02,272 - INFO - Scraped 485 azioni per mia-vs-bos-0022300080
+2025-04-19 18:20:02,442 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-bkn-0022300136/play-by-play?period=All
+2025-04-19 18:20:02,447 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:03,864 - INFO - Elaborazione completata per ind-vs-bos-0022300118
+2025-04-19 18:20:03,976 - INFO - Elaborazione completata per bos-vs-nyk-0022300065
+2025-04-19 18:20:04,064 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-min-0022300154/play-by-play?period=All
+2025-04-19 18:20:04,069 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:04,115 - INFO - Elaborazione completata per mia-vs-bos-0022300080
+2025-04-19 18:20:04,117 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-phi-0022300159/play-by-play?period=All
+2025-04-19 18:20:04,117 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:04,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,181 - INFO - Caricamento pagina: https://www.nba.com/game/bkn-vs-bos-0022300010/play-by-play?period=All
+2025-04-19 18:20:04,182 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:04,187 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,188 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,199 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,231 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,232 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,245 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:04,246 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,274 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:04,274 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:04,285 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:04,326 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:09,229 - INFO - Scraped 490 azioni per bos-vs-bkn-0022300136
+2025-04-19 18:20:09,464 - INFO - Scraped 477 azioni per bos-vs-phi-0022300159
+2025-04-19 18:20:10,966 - INFO - Scraped 548 azioni per bos-vs-min-0022300154
+2025-04-19 18:20:11,115 - INFO - Scraped 459 azioni per bkn-vs-bos-0022300010
+2025-04-19 18:20:11,349 - INFO - Elaborazione completata per bos-vs-bkn-0022300136
+2025-04-19 18:20:11,463 - INFO - Elaborazione completata per bos-vs-phi-0022300159
+2025-04-19 18:20:11,635 - INFO - Caricamento pagina: https://www.nba.com/game/tor-vs-bos-0022300174/play-by-play?period=All
+2025-04-19 18:20:11,646 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:11,697 - INFO - Caricamento pagina: https://www.nba.com/game/nyk-vs-bos-0022300188/play-by-play?period=All
+2025-04-19 18:20:11,702 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:12,162 - INFO - Elaborazione completata per bkn-vs-bos-0022300010
+2025-04-19 18:20:12,270 - INFO - Elaborazione completata per bos-vs-min-0022300154
+2025-04-19 18:20:12,271 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-phi-0022300194/play-by-play?period=All
+2025-04-19 18:20:12,272 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:12,307 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,333 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-tor-0022300031/play-by-play?period=All
+2025-04-19 18:20:12,333 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:12,338 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,396 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,569 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,641 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:12,669 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:12,670 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:12,738 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:12,751 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:17,704 - INFO - Scraped 429 azioni per tor-vs-bos-0022300174
+2025-04-19 18:20:18,721 - INFO - Scraped 428 azioni per bos-vs-tor-0022300031
+2025-04-19 18:20:18,808 - INFO - Scraped 435 azioni per bos-vs-phi-0022300194
+2025-04-19 18:20:19,491 - INFO - Scraped 416 azioni per nyk-vs-bos-0022300188
+2025-04-19 18:20:20,566 - INFO - Elaborazione completata per tor-vs-bos-0022300174
+2025-04-19 18:20:20,661 - INFO - Elaborazione completata per bos-vs-tor-0022300031
+2025-04-19 18:20:20,795 - INFO - Elaborazione completata per bos-vs-phi-0022300194
+2025-04-19 18:20:20,838 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mem-0022300213/play-by-play?period=All
+2025-04-19 18:20:20,848 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:20,905 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-cha-0022300217/play-by-play?period=All
+2025-04-19 18:20:20,921 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:20,986 - INFO - Elaborazione completata per nyk-vs-bos-0022300188
+2025-04-19 18:20:20,986 - INFO - Caricamento pagina: https://www.nba.com/game/mil-vs-bos-0022300228/play-by-play?period=All
+2025-04-19 18:20:20,987 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:21,049 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-orl-0022300043/play-by-play?period=All
+2025-04-19 18:20:21,049 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:21,054 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,055 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,055 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,093 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,096 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,096 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,133 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:21,133 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:21,135 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:21,150 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:21,193 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:25,942 - INFO - Scraped 453 azioni per mil-vs-bos-0022300228
+2025-04-19 18:20:26,385 - INFO - Elaborazione completata per mil-vs-bos-0022300228
+2025-04-19 18:20:26,445 - INFO - Caricamento pagina: https://www.nba.com/game/atl-vs-bos-0022300246/play-by-play?period=All
+2025-04-19 18:20:26,445 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:26,524 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:26,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:27,067 - INFO - Scraped 468 azioni per bos-vs-mem-0022300213
+2025-04-19 18:20:27,234 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:27,394 - INFO - Scraped 528 azioni per bos-vs-cha-0022300217
+2025-04-19 18:20:28,015 - INFO - Elaborazione completata per bos-vs-mem-0022300213
+2025-04-19 18:20:28,292 - INFO - Caricamento pagina: https://www.nba.com/game/chi-vs-bos-0022300053/play-by-play?period=All
+2025-04-19 18:20:28,318 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:28,653 - INFO - Elaborazione completata per bos-vs-cha-0022300217
+2025-04-19 18:20:28,685 - INFO - Scraped 489 azioni per bos-vs-orl-0022300043
+2025-04-19 18:20:28,841 - INFO - Caricamento pagina: https://www.nba.com/game/phi-vs-bos-0022300275/play-by-play?period=All
+2025-04-19 18:20:28,872 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:29,120 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:29,163 - INFO - Elaborazione completata per bos-vs-orl-0022300043
+2025-04-19 18:20:29,183 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:29,199 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:29,224 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-ind-0022301202/play-by-play?period=All
+2025-04-19 18:20:29,224 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:29,225 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:29,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:29,288 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:29,289 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:29,342 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:29,391 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:32,511 - INFO - Scraped 487 azioni per atl-vs-bos-0022300246
+2025-04-19 18:20:33,002 - INFO - Elaborazione completata per atl-vs-bos-0022300246
+2025-04-19 18:20:33,063 - INFO - Caricamento pagina: https://www.nba.com/game/nyk-vs-bos-0022301227/play-by-play?period=All
+2025-04-19 18:20:33,063 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:33,129 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:33,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:33,210 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:33,829 - INFO - Scraped 515 azioni per phi-vs-bos-0022300275
+2025-04-19 18:20:34,421 - INFO - Elaborazione completata per phi-vs-bos-0022300275
+2025-04-19 18:20:34,565 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0022300305/play-by-play?period=All
+2025-04-19 18:20:34,575 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:34,665 - INFO - Scraped 468 azioni per chi-vs-bos-0022300053
+2025-04-19 18:20:35,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:35,192 - INFO - Elaborazione completata per chi-vs-bos-0022300053
+2025-04-19 18:20:35,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:35,443 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0022300319/play-by-play?period=All
+2025-04-19 18:20:35,449 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:35,466 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:35,562 - INFO - Scraped 473 azioni per bos-vs-ind-0022301202
+2025-04-19 18:20:35,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:36,052 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:36,056 - INFO - Elaborazione completata per bos-vs-ind-0022301202
+2025-04-19 18:20:36,095 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:36,119 - INFO - Caricamento pagina: https://www.nba.com/game/orl-vs-bos-0022300329/play-by-play?period=All
+2025-04-19 18:20:36,120 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:36,191 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:36,231 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:36,268 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:37,788 - INFO - Scraped 468 azioni per nyk-vs-bos-0022301227
+2025-04-19 18:20:38,309 - INFO - Elaborazione completata per nyk-vs-bos-0022301227
+2025-04-19 18:20:38,373 - INFO - Caricamento pagina: https://www.nba.com/game/orl-vs-bos-0022300344/play-by-play?period=All
+2025-04-19 18:20:38,373 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:38,443 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:38,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:38,524 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:40,807 - INFO - Scraped 451 azioni per cle-vs-bos-0022300305
+2025-04-19 18:20:40,974 - INFO - Scraped 431 azioni per cle-vs-bos-0022300319
+2025-04-19 18:20:42,220 - INFO - Scraped 478 azioni per orl-vs-bos-0022300329
+2025-04-19 18:20:42,387 - INFO - Elaborazione completata per cle-vs-bos-0022300305
+2025-04-19 18:20:42,475 - INFO - Elaborazione completata per cle-vs-bos-0022300319
+2025-04-19 18:20:42,523 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-gsw-0022300362/play-by-play?period=All
+2025-04-19 18:20:42,538 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:42,680 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-sac-0022300373/play-by-play?period=All
+2025-04-19 18:20:42,756 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:43,253 - INFO - Elaborazione completata per orl-vs-bos-0022300329
+2025-04-19 18:20:43,280 - INFO - Scraped 477 azioni per orl-vs-bos-0022300344
+2025-04-19 18:20:43,318 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,435 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-lac-0022300389/play-by-play?period=All
+2025-04-19 18:20:43,446 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:43,466 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,557 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,716 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:43,742 - INFO - Elaborazione completata per orl-vs-bos-0022300344
+2025-04-19 18:20:43,745 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:43,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,807 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-lal-0022300403/play-by-play?period=All
+2025-04-19 18:20:43,807 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:43,838 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,879 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:43,883 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,927 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:43,977 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:49,037 - INFO - Scraped 512 azioni per bos-vs-gsw-0022300362
+2025-04-19 18:20:50,353 - INFO - Scraped 464 azioni per bos-vs-sac-0022300373
+2025-04-19 18:20:50,548 - INFO - Scraped 460 azioni per bos-vs-lac-0022300389
+2025-04-19 18:20:51,105 - INFO - Scraped 466 azioni per bos-vs-lal-0022300403
+2025-04-19 18:20:51,982 - INFO - Elaborazione completata per bos-vs-gsw-0022300362
+2025-04-19 18:20:52,446 - INFO - Caricamento pagina: https://www.nba.com/game/det-vs-bos-0022300421/play-by-play?period=All
+2025-04-19 18:20:52,456 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:52,592 - INFO - Elaborazione completata per bos-vs-lac-0022300389
+2025-04-19 18:20:52,653 - INFO - Elaborazione completata per bos-vs-sac-0022300373
+2025-04-19 18:20:52,773 - INFO - Caricamento pagina: https://www.nba.com/game/tor-vs-bos-0022300432/play-by-play?period=All
+2025-04-19 18:20:52,783 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:52,794 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-sas-0022300448/play-by-play?period=All
+2025-04-19 18:20:52,799 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:52,820 - INFO - Elaborazione completata per bos-vs-lal-0022300403
+2025-04-19 18:20:52,883 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,886 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-okc-0022300462/play-by-play?period=All
+2025-04-19 18:20:52,886 - INFO - ====== WebDriver manager ======
+2025-04-19 18:20:52,891 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,927 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,951 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:52,967 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:52,970 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:52,970 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:20:52,993 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:20:53,038 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:44,921 - INFO - Trovati 1323 link
+2025-04-19 18:22:44,922 - INFO - Trovati 591 players
+2025-04-19 18:22:44,922 - INFO - Da elaborare 101 link su 1323 totali
+2025-04-19 18:22:44,922 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-nyk-0022300065/play-by-play?period=All
+2025-04-19 18:22:44,923 - INFO - Caricamento pagina: https://www.nba.com/game/mia-vs-bos-0022300080/play-by-play?period=All
+2025-04-19 18:22:44,923 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:44,923 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:44,923 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-was-0022300103/play-by-play?period=All
+2025-04-19 18:22:44,924 - INFO - Caricamento pagina: https://www.nba.com/game/ind-vs-bos-0022300118/play-by-play?period=All
+2025-04-19 18:22:44,924 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:44,925 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:44,997 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:44,997 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,044 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,049 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:45,085 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:45,085 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:45,088 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:45,088 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:50,482 - INFO - Scraped 513 azioni per bos-vs-nyk-0022300065
+2025-04-19 18:22:50,710 - INFO - Scraped 472 azioni per ind-vs-bos-0022300118
+2025-04-19 18:22:50,757 - INFO - Scraped 482 azioni per bos-vs-was-0022300103
+2025-04-19 18:22:51,797 - INFO - Scraped 485 azioni per mia-vs-bos-0022300080
+2025-04-19 18:22:53,411 - INFO - Elaborazione completata per bos-vs-nyk-0022300065
+2025-04-19 18:22:53,432 - INFO - Elaborazione completata per ind-vs-bos-0022300118
+2025-04-19 18:22:53,453 - INFO - Elaborazione completata per bos-vs-was-0022300103
+2025-04-19 18:22:53,599 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-bkn-0022300136/play-by-play?period=All
+2025-04-19 18:22:53,609 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:53,615 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-min-0022300154/play-by-play?period=All
+2025-04-19 18:22:53,625 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:53,657 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-phi-0022300159/play-by-play?period=All
+2025-04-19 18:22:53,657 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:53,677 - INFO - Elaborazione completata per mia-vs-bos-0022300080
+2025-04-19 18:22:53,740 - INFO - Caricamento pagina: https://www.nba.com/game/bkn-vs-bos-0022300010/play-by-play?period=All
+2025-04-19 18:22:53,741 - INFO - ====== WebDriver manager ======
+2025-04-19 18:22:53,744 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,783 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,825 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:53,829 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:53,834 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:53,850 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:22:53,891 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:22:58,879 - INFO - Scraped 490 azioni per bos-vs-bkn-0022300136
+2025-04-19 18:22:59,742 - INFO - Scraped 548 azioni per bos-vs-min-0022300154
+2025-04-19 18:23:00,739 - INFO - Elaborazione completata per bos-vs-bkn-0022300136
+2025-04-19 18:23:00,829 - INFO - Scraped 459 azioni per bkn-vs-bos-0022300010
+2025-04-19 18:23:00,984 - INFO - Scraped 477 azioni per bos-vs-phi-0022300159
+2025-04-19 18:23:01,279 - INFO - Caricamento pagina: https://www.nba.com/game/tor-vs-bos-0022300174/play-by-play?period=All
+2025-04-19 18:23:01,289 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:02,111 - INFO - Elaborazione completata per bos-vs-min-0022300154
+2025-04-19 18:23:02,374 - INFO - Elaborazione completata per bkn-vs-bos-0022300010
+2025-04-19 18:23:02,424 - INFO - Elaborazione completata per bos-vs-phi-0022300159
+2025-04-19 18:23:02,426 - INFO - Caricamento pagina: https://www.nba.com/game/nyk-vs-bos-0022300188/play-by-play?period=All
+2025-04-19 18:23:02,426 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:02,437 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-phi-0022300194/play-by-play?period=All
+2025-04-19 18:23:02,437 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:02,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,487 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-tor-0022300031/play-by-play?period=All
+2025-04-19 18:23:02,487 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:02,498 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,505 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,545 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:02,545 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,545 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,553 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,580 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:02,713 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:02,715 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:02,763 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:07,772 - INFO - Scraped 416 azioni per nyk-vs-bos-0022300188
+2025-04-19 18:23:08,617 - INFO - Scraped 429 azioni per tor-vs-bos-0022300174
+2025-04-19 18:23:08,619 - INFO - Scraped 435 azioni per bos-vs-phi-0022300194
+2025-04-19 18:23:09,019 - INFO - Scraped 428 azioni per bos-vs-tor-0022300031
+2025-04-19 18:23:10,162 - INFO - Elaborazione completata per nyk-vs-bos-0022300188
+2025-04-19 18:23:10,658 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mem-0022300213/play-by-play?period=All
+2025-04-19 18:23:10,669 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:10,882 - INFO - Elaborazione completata per bos-vs-tor-0022300031
+2025-04-19 18:23:10,997 - INFO - Elaborazione completata per bos-vs-phi-0022300194
+2025-04-19 18:23:11,020 - INFO - Elaborazione completata per tor-vs-bos-0022300174
+2025-04-19 18:23:11,020 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-cha-0022300217/play-by-play?period=All
+2025-04-19 18:23:11,021 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:11,068 - INFO - Caricamento pagina: https://www.nba.com/game/mil-vs-bos-0022300228/play-by-play?period=All
+2025-04-19 18:23:11,068 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:11,085 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-orl-0022300043/play-by-play?period=All
+2025-04-19 18:23:11,085 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:11,089 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,090 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,131 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,135 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,135 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,150 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,175 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:11,179 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:11,183 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,191 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:11,223 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:11,229 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:15,555 - INFO - Scraped 453 azioni per mil-vs-bos-0022300228
+2025-04-19 18:23:16,567 - INFO - Scraped 528 azioni per bos-vs-cha-0022300217
+2025-04-19 18:23:16,815 - INFO - Scraped 468 azioni per bos-vs-mem-0022300213
+2025-04-19 18:23:17,996 - INFO - Scraped 489 azioni per bos-vs-orl-0022300043
+2025-04-19 18:23:18,219 - INFO - Elaborazione completata per mil-vs-bos-0022300228
+2025-04-19 18:23:18,529 - INFO - Caricamento pagina: https://www.nba.com/game/atl-vs-bos-0022300246/play-by-play?period=All
+2025-04-19 18:23:18,540 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:19,379 - INFO - Elaborazione completata per bos-vs-mem-0022300213
+2025-04-19 18:23:19,445 - INFO - Elaborazione completata per bos-vs-cha-0022300217
+2025-04-19 18:23:19,581 - INFO - Caricamento pagina: https://www.nba.com/game/chi-vs-bos-0022300053/play-by-play?period=All
+2025-04-19 18:23:19,592 - INFO - Elaborazione completata per bos-vs-orl-0022300043
+2025-04-19 18:23:19,592 - INFO - Caricamento pagina: https://www.nba.com/game/phi-vs-bos-0022300275/play-by-play?period=All
+2025-04-19 18:23:19,592 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:19,593 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:19,627 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,655 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-ind-0022301202/play-by-play?period=All
+2025-04-19 18:23:19,655 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:19,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,709 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:19,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,739 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:19,743 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:19,937 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:19,977 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:24,295 - INFO - Scraped 487 azioni per atl-vs-bos-0022300246
+2025-04-19 18:23:25,192 - INFO - Scraped 468 azioni per chi-vs-bos-0022300053
+2025-04-19 18:23:25,739 - INFO - Elaborazione completata per atl-vs-bos-0022300246
+2025-04-19 18:23:25,970 - INFO - Caricamento pagina: https://www.nba.com/game/nyk-vs-bos-0022301227/play-by-play?period=All
+2025-04-19 18:23:26,096 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:26,267 - INFO - Scraped 515 azioni per phi-vs-bos-0022300275
+2025-04-19 18:23:26,378 - INFO - Scraped 473 azioni per bos-vs-ind-0022301202
+2025-04-19 18:23:27,328 - INFO - Elaborazione completata per chi-vs-bos-0022300053
+2025-04-19 18:23:27,635 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0022300305/play-by-play?period=All
+2025-04-19 18:23:27,645 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:27,708 - INFO - Elaborazione completata per phi-vs-bos-0022300275
+2025-04-19 18:23:27,818 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:27,851 - INFO - Elaborazione completata per bos-vs-ind-0022301202
+2025-04-19 18:23:27,852 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0022300319/play-by-play?period=All
+2025-04-19 18:23:27,852 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:27,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:27,914 - INFO - Caricamento pagina: https://www.nba.com/game/orl-vs-bos-0022300329/play-by-play?period=All
+2025-04-19 18:23:27,914 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:27,916 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:27,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:27,927 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:27,964 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:27,964 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:27,978 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:28,005 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:28,005 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:28,017 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:28,061 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:33,056 - INFO - Scraped 431 azioni per cle-vs-bos-0022300319
+2025-04-19 18:23:33,645 - INFO - Scraped 468 azioni per nyk-vs-bos-0022301227
+2025-04-19 18:23:34,113 - INFO - Scraped 451 azioni per cle-vs-bos-0022300305
+2025-04-19 18:23:34,646 - INFO - Scraped 478 azioni per orl-vs-bos-0022300329
+2025-04-19 18:23:36,152 - INFO - Elaborazione completata per cle-vs-bos-0022300319
+2025-04-19 18:23:36,197 - INFO - Elaborazione completata per nyk-vs-bos-0022301227
+2025-04-19 18:23:36,325 - INFO - Elaborazione completata per cle-vs-bos-0022300305
+2025-04-19 18:23:36,377 - INFO - Caricamento pagina: https://www.nba.com/game/orl-vs-bos-0022300344/play-by-play?period=All
+2025-04-19 18:23:36,387 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:36,393 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-gsw-0022300362/play-by-play?period=All
+2025-04-19 18:23:36,419 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:36,512 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-sac-0022300373/play-by-play?period=All
+2025-04-19 18:23:36,532 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:36,541 - INFO - Elaborazione completata per orl-vs-bos-0022300329
+2025-04-19 18:23:36,604 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-lac-0022300389/play-by-play?period=All
+2025-04-19 18:23:36,604 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:36,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,646 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,656 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,659 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,671 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,688 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:36,696 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:36,702 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:36,712 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:36,754 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:40,779 - INFO - Scraped 460 azioni per bos-vs-lac-0022300389
+2025-04-19 18:23:41,966 - INFO - Scraped 477 azioni per orl-vs-bos-0022300344
+2025-04-19 18:23:42,685 - INFO - Elaborazione completata per bos-vs-lac-0022300389
+2025-04-19 18:23:42,834 - INFO - Scraped 464 azioni per bos-vs-sac-0022300373
+2025-04-19 18:23:42,896 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-lal-0022300403/play-by-play?period=All
+2025-04-19 18:23:42,907 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:43,108 - INFO - Scraped 512 azioni per bos-vs-gsw-0022300362
+2025-04-19 18:23:44,112 - INFO - Elaborazione completata per orl-vs-bos-0022300344
+2025-04-19 18:23:44,409 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,485 - INFO - Elaborazione completata per bos-vs-sac-0022300373
+2025-04-19 18:23:44,485 - INFO - Caricamento pagina: https://www.nba.com/game/det-vs-bos-0022300421/play-by-play?period=All
+2025-04-19 18:23:44,516 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:44,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,622 - INFO - Elaborazione completata per bos-vs-gsw-0022300362
+2025-04-19 18:23:44,623 - INFO - Caricamento pagina: https://www.nba.com/game/tor-vs-bos-0022300432/play-by-play?period=All
+2025-04-19 18:23:44,624 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:44,660 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:44,686 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-sas-0022300448/play-by-play?period=All
+2025-04-19 18:23:44,686 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:44,692 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,730 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,733 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,751 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,773 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:44,773 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:44,790 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:44,843 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:49,710 - INFO - Scraped 520 azioni per det-vs-bos-0022300421
+2025-04-19 18:23:50,197 - INFO - Scraped 478 azioni per tor-vs-bos-0022300432
+2025-04-19 18:23:50,786 - INFO - Scraped 466 azioni per bos-vs-lal-0022300403
+2025-04-19 18:23:51,141 - INFO - Scraped 458 azioni per bos-vs-sas-0022300448
+2025-04-19 18:23:52,402 - INFO - Elaborazione completata per det-vs-bos-0022300421
+2025-04-19 18:23:52,664 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-okc-0022300462/play-by-play?period=All
+2025-04-19 18:23:52,781 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:53,185 - INFO - Elaborazione completata per tor-vs-bos-0022300432
+2025-04-19 18:23:53,263 - INFO - Elaborazione completata per bos-vs-sas-0022300448
+2025-04-19 18:23:53,311 - INFO - Elaborazione completata per bos-vs-lal-0022300403
+2025-04-19 18:23:53,312 - INFO - Caricamento pagina: https://www.nba.com/game/uta-vs-bos-0022300479/play-by-play?period=All
+2025-04-19 18:23:53,312 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:53,338 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-ind-0022300493/play-by-play?period=All
+2025-04-19 18:23:53,338 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:53,376 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-ind-0022300507/play-by-play?period=All
+2025-04-19 18:23:53,376 - INFO - ====== WebDriver manager ======
+2025-04-19 18:23:53,379 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,382 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,442 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,469 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:53,471 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:53,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:23:53,486 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:53,519 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:23:59,792 - INFO - Scraped 539 azioni per uta-vs-bos-0022300479
+2025-04-19 18:24:00,357 - INFO - Scraped 485 azioni per bos-vs-ind-0022300507
+2025-04-19 18:24:00,783 - INFO - Scraped 497 azioni per bos-vs-okc-0022300462
+2025-04-19 18:24:00,834 - INFO - Scraped 496 azioni per bos-vs-ind-0022300493
+2025-04-19 18:24:03,064 - INFO - Elaborazione completata per bos-vs-ind-0022300493
+2025-04-19 18:24:03,255 - INFO - Elaborazione completata per uta-vs-bos-0022300479
+2025-04-19 18:24:03,281 - INFO - Caricamento pagina: https://www.nba.com/game/min-vs-bos-0022300517/play-by-play?period=All
+2025-04-19 18:24:03,297 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:03,320 - INFO - Elaborazione completata per bos-vs-ind-0022300507
+2025-04-19 18:24:03,438 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mil-0022300528/play-by-play?period=All
+2025-04-19 18:24:03,448 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:03,503 - INFO - Elaborazione completata per bos-vs-okc-0022300462
+2025-04-19 18:24:03,504 - INFO - Caricamento pagina: https://www.nba.com/game/hou-vs-bos-0022300542/play-by-play?period=All
+2025-04-19 18:24:03,504 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:03,568 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-tor-0022300563/play-by-play?period=All
+2025-04-19 18:24:03,568 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:03,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,573 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,615 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,615 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,633 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,655 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:03,657 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:03,658 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:03,672 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:03,711 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:08,567 - INFO - Scraped 465 azioni per bos-vs-tor-0022300563
+2025-04-19 18:24:08,703 - INFO - Scraped 486 azioni per min-vs-bos-0022300517
+2025-04-19 18:24:10,018 - INFO - Scraped 509 azioni per hou-vs-bos-0022300542
+2025-04-19 18:24:10,285 - INFO - Scraped 456 azioni per bos-vs-mil-0022300528
+2025-04-19 18:24:11,065 - INFO - Elaborazione completata per min-vs-bos-0022300517
+2025-04-19 18:24:11,291 - INFO - Elaborazione completata per bos-vs-tor-0022300563
+2025-04-19 18:24:11,435 - INFO - Caricamento pagina: https://www.nba.com/game/sas-vs-bos-0022300571/play-by-play?period=All
+2025-04-19 18:24:11,461 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:11,659 - INFO - Caricamento pagina: https://www.nba.com/game/den-vs-bos-0022300586/play-by-play?period=All
+2025-04-19 18:24:11,670 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:11,924 - INFO - Elaborazione completata per bos-vs-mil-0022300528
+2025-04-19 18:24:11,969 - INFO - Elaborazione completata per hou-vs-bos-0022300542
+2025-04-19 18:24:12,010 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-hou-0022300603/play-by-play?period=All
+2025-04-19 18:24:12,011 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:12,034 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-dal-0022300611/play-by-play?period=All
+2025-04-19 18:24:12,034 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:12,034 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,035 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,077 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,100 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,112 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,118 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:12,119 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:12,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:12,153 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:12,178 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:16,321 - INFO - Scraped 463 azioni per sas-vs-bos-0022300571
+2025-04-19 18:24:17,916 - INFO - Scraped 478 azioni per bos-vs-dal-0022300611
+2025-04-19 18:24:18,100 - INFO - Scraped 512 azioni per bos-vs-hou-0022300603
+2025-04-19 18:24:18,173 - INFO - Scraped 398 azioni per den-vs-bos-0022300586
+2025-04-19 18:24:18,663 - INFO - Elaborazione completata per sas-vs-bos-0022300571
+2025-04-19 18:24:18,953 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mia-0022300630/play-by-play?period=All
+2025-04-19 18:24:18,963 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:19,709 - INFO - Elaborazione completata per den-vs-bos-0022300586
+2025-04-19 18:24:19,895 - INFO - Elaborazione completata per bos-vs-dal-0022300611
+2025-04-19 18:24:19,978 - INFO - Caricamento pagina: https://www.nba.com/game/lac-vs-bos-0022300646/play-by-play?period=All
+2025-04-19 18:24:19,994 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:20,061 - INFO - Caricamento pagina: https://www.nba.com/game/nop-vs-bos-0022300659/play-by-play?period=All
+2025-04-19 18:24:20,066 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:20,096 - INFO - Elaborazione completata per bos-vs-hou-0022300603
+2025-04-19 18:24:20,131 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,159 - INFO - Caricamento pagina: https://www.nba.com/game/ind-vs-bos-0022300670/play-by-play?period=All
+2025-04-19 18:24:20,159 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:20,165 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,169 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,211 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,212 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:20,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,244 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:20,246 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:20,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:20,300 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:26,385 - INFO - Scraped 440 azioni per nop-vs-bos-0022300659
+2025-04-19 18:24:26,913 - INFO - Scraped 495 azioni per lac-vs-bos-0022300646
+2025-04-19 18:24:27,551 - INFO - Scraped 403 azioni per bos-vs-mia-0022300630
+2025-04-19 18:24:28,709 - INFO - Scraped 480 azioni per ind-vs-bos-0022300670
+2025-04-19 18:24:29,110 - INFO - Elaborazione completata per nop-vs-bos-0022300659
+2025-04-19 18:24:29,341 - INFO - Elaborazione completata per bos-vs-mia-0022300630
+2025-04-19 18:24:29,428 - INFO - Caricamento pagina: https://www.nba.com/game/lal-vs-bos-0022300684/play-by-play?period=All
+2025-04-19 18:24:29,570 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:29,637 - INFO - Elaborazione completata per lac-vs-bos-0022300646
+2025-04-19 18:24:29,684 - INFO - Caricamento pagina: https://www.nba.com/game/mem-vs-bos-0022300706/play-by-play?period=All
+2025-04-19 18:24:29,710 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:29,793 - INFO - Caricamento pagina: https://www.nba.com/game/atl-vs-bos-0022300729/play-by-play?period=All
+2025-04-19 18:24:29,828 - INFO - Elaborazione completata per ind-vs-bos-0022300670
+2025-04-19 18:24:29,828 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:29,892 - INFO - Caricamento pagina: https://www.nba.com/game/was-vs-bos-0022300743/play-by-play?period=All
+2025-04-19 18:24:29,892 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:29,896 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,896 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,897 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,934 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,941 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,944 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,955 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:29,976 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:29,980 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:29,983 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:29,999 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:30,045 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:34,189 - INFO - Scraped 464 azioni per atl-vs-bos-0022300729
+2025-04-19 18:24:34,861 - INFO - Elaborazione completata per atl-vs-bos-0022300729
+2025-04-19 18:24:35,134 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mia-0022300759/play-by-play?period=All
+2025-04-19 18:24:35,171 - INFO - Scraped 469 azioni per mem-vs-bos-0022300706
+2025-04-19 18:24:35,171 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:35,532 - INFO - Scraped 484 azioni per lal-vs-bos-0022300684
+2025-04-19 18:24:36,221 - INFO - Elaborazione completata per mem-vs-bos-0022300706
+2025-04-19 18:24:36,305 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:36,360 - INFO - Elaborazione completata per lal-vs-bos-0022300684
+2025-04-19 18:24:36,361 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-bkn-0022300771/play-by-play?period=All
+2025-04-19 18:24:36,361 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:36,387 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:36,420 - INFO - Caricamento pagina: https://www.nba.com/game/bkn-vs-bos-0022300780/play-by-play?period=All
+2025-04-19 18:24:36,420 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:36,424 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:36,425 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:36,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:36,487 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:36,502 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:36,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:36,566 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:37,694 - INFO - Scraped 483 azioni per was-vs-bos-0022300743
+2025-04-19 18:24:38,165 - INFO - Elaborazione completata per was-vs-bos-0022300743
+2025-04-19 18:24:38,224 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-chi-0022300797/play-by-play?period=All
+2025-04-19 18:24:38,224 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:38,293 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:38,344 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:38,394 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:40,744 - INFO - Scraped 401 azioni per bkn-vs-bos-0022300780
+2025-04-19 18:24:41,498 - INFO - Elaborazione completata per bkn-vs-bos-0022300780
+2025-04-19 18:24:41,515 - INFO - Scraped 453 azioni per bos-vs-bkn-0022300771
+2025-04-19 18:24:41,773 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-nyk-0022300816/play-by-play?period=All
+2025-04-19 18:24:41,789 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:42,258 - INFO - Scraped 425 azioni per bos-vs-mia-0022300759
+2025-04-19 18:24:42,264 - INFO - Elaborazione completata per bos-vs-bkn-0022300771
+2025-04-19 18:24:42,543 - INFO - Caricamento pagina: https://www.nba.com/game/phi-vs-bos-0022300836/play-by-play?period=All
+2025-04-19 18:24:42,559 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:42,859 - INFO - Scraped 463 azioni per bos-vs-chi-0022300797
+2025-04-19 18:24:42,886 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,156 - INFO - Elaborazione completata per bos-vs-mia-0022300759
+2025-04-19 18:24:43,167 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,331 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:43,331 - INFO - Caricamento pagina: https://www.nba.com/game/dal-vs-bos-0022300859/play-by-play?period=All
+2025-04-19 18:24:43,367 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:43,511 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,538 - INFO - Elaborazione completata per bos-vs-chi-0022300797
+2025-04-19 18:24:43,583 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,601 - INFO - Caricamento pagina: https://www.nba.com/game/gsw-vs-bos-0022300872/play-by-play?period=All
+2025-04-19 18:24:43,601 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:43,604 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,624 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:43,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,672 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,680 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:43,712 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:43,754 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:47,681 - INFO - Scraped 398 azioni per bos-vs-nyk-0022300816
+2025-04-19 18:24:49,143 - INFO - Scraped 468 azioni per phi-vs-bos-0022300836
+2025-04-19 18:24:49,479 - INFO - Scraped 438 azioni per dal-vs-bos-0022300859
+2025-04-19 18:24:49,593 - INFO - Elaborazione completata per bos-vs-nyk-0022300816
+2025-04-19 18:24:49,971 - INFO - Scraped 441 azioni per gsw-vs-bos-0022300872
+2025-04-19 18:24:50,074 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-cle-0022300886/play-by-play?period=All
+2025-04-19 18:24:50,121 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:50,831 - INFO - Elaborazione completata per phi-vs-bos-0022300836
+2025-04-19 18:24:51,098 - INFO - Elaborazione completata per dal-vs-bos-0022300859
+2025-04-19 18:24:51,114 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-den-0022300906/play-by-play?period=All
+2025-04-19 18:24:51,135 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:51,248 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,264 - INFO - Elaborazione completata per gsw-vs-bos-0022300872
+2025-04-19 18:24:51,266 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-phx-0022300920/play-by-play?period=All
+2025-04-19 18:24:51,266 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:51,305 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,328 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-por-0022300938/play-by-play?period=All
+2025-04-19 18:24:51,328 - INFO - ====== WebDriver manager ======
+2025-04-19 18:24:51,331 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,332 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,345 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:51,371 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,371 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,392 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,410 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:51,410 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:51,432 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:24:51,474 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:24:57,088 - INFO - Scraped 482 azioni per bos-vs-den-0022300906
+2025-04-19 18:24:57,424 - INFO - Scraped 437 azioni per bos-vs-phx-0022300920
+2025-04-19 18:24:57,904 - INFO - Scraped 447 azioni per bos-vs-cle-0022300886
+2025-04-19 18:24:58,593 - INFO - Scraped 436 azioni per bos-vs-por-0022300938
+2025-04-19 18:24:59,984 - INFO - Elaborazione completata per bos-vs-phx-0022300920
+2025-04-19 18:25:00,210 - INFO - Elaborazione completata per bos-vs-cle-0022300886
+2025-04-19 18:25:00,231 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-uta-0022300943/play-by-play?period=All
+2025-04-19 18:25:00,241 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:00,380 - INFO - Caricamento pagina: https://www.nba.com/game/phx-vs-bos-0022300955/play-by-play?period=All
+2025-04-19 18:25:00,383 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:00,470 - INFO - Elaborazione completata per bos-vs-por-0022300938
+2025-04-19 18:25:00,478 - INFO - Elaborazione completata per bos-vs-den-0022300906
+2025-04-19 18:25:00,540 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-was-0022300980/play-by-play?period=All
+2025-04-19 18:25:00,541 - INFO - Caricamento pagina: https://www.nba.com/game/det-vs-bos-0022300984/play-by-play?period=All
+2025-04-19 18:25:00,541 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:00,541 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:00,550 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,551 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,607 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,608 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,631 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:00,632 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:00,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,646 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:00,680 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:00,686 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:04,915 - INFO - Scraped 433 azioni per phx-vs-bos-0022300955
+2025-04-19 18:25:05,939 - INFO - Elaborazione completata per phx-vs-bos-0022300955
+2025-04-19 18:25:06,070 - INFO - Scraped 433 azioni per bos-vs-uta-0022300943
+2025-04-19 18:25:06,231 - INFO - Caricamento pagina: https://www.nba.com/game/mil-vs-bos-0022300998/play-by-play?period=All
+2025-04-19 18:25:06,241 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:06,297 - INFO - Scraped 429 azioni per det-vs-bos-0022300984
+2025-04-19 18:25:07,502 - INFO - Elaborazione completata per bos-vs-uta-0022300943
+2025-04-19 18:25:07,662 - INFO - Elaborazione completata per det-vs-bos-0022300984
+2025-04-19 18:25:07,663 - INFO - Scraped 461 azioni per bos-vs-was-0022300980
+2025-04-19 18:25:07,665 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-det-0022301011/play-by-play?period=All
+2025-04-19 18:25:07,670 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:07,816 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:07,822 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-chi-0022301023/play-by-play?period=All
+2025-04-19 18:25:07,836 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:07,987 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,130 - INFO - Elaborazione completata per bos-vs-was-0022300980
+2025-04-19 18:25:08,132 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:08,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,165 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,192 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-atl-0022301034/play-by-play?period=All
+2025-04-19 18:25:08,192 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:08,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,250 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:08,252 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:08,262 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:08,341 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:12,513 - INFO - Scraped 400 azioni per bos-vs-chi-0022301023
+2025-04-19 18:25:12,710 - INFO - Scraped 454 azioni per mil-vs-bos-0022300998
+2025-04-19 18:25:14,287 - INFO - Elaborazione completata per bos-vs-chi-0022301023
+2025-04-19 18:25:14,599 - INFO - Scraped 455 azioni per bos-vs-det-0022301011
+2025-04-19 18:25:14,667 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-atl-0022301060/play-by-play?period=All
+2025-04-19 18:25:14,719 - INFO - Elaborazione completata per mil-vs-bos-0022300998
+2025-04-19 18:25:14,754 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:14,877 - INFO - Scraped 454 azioni per bos-vs-atl-0022301034
+2025-04-19 18:25:15,022 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-nop-0022301074/play-by-play?period=All
+2025-04-19 18:25:15,032 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:15,637 - INFO - Elaborazione completata per bos-vs-det-0022301011
+2025-04-19 18:25:15,702 - INFO - Elaborazione completata per bos-vs-atl-0022301034
+2025-04-19 18:25:15,717 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-cha-0022301087/play-by-play?period=All
+2025-04-19 18:25:15,717 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:15,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,737 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,764 - INFO - Caricamento pagina: https://www.nba.com/game/okc-vs-bos-0022301105/play-by-play?period=All
+2025-04-19 18:25:15,765 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:15,774 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,777 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,784 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,813 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:15,816 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:15,824 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,830 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,863 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:15,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:15,906 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:19,941 - INFO - Scraped 432 azioni per bos-vs-nop-0022301074
+2025-04-19 18:25:20,349 - INFO - Elaborazione completata per bos-vs-nop-0022301074
+2025-04-19 18:25:20,408 - INFO - Caricamento pagina: https://www.nba.com/game/sac-vs-bos-0022301118/play-by-play?period=All
+2025-04-19 18:25:20,408 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:20,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:20,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:20,946 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:21,018 - INFO - Scraped 490 azioni per bos-vs-atl-0022301060
+2025-04-19 18:25:21,992 - INFO - Scraped 421 azioni per bos-vs-cha-0022301087
+2025-04-19 18:25:22,194 - INFO - Scraped 469 azioni per okc-vs-bos-0022301105
+2025-04-19 18:25:22,889 - INFO - Elaborazione completata per bos-vs-atl-0022301060
+2025-04-19 18:25:23,089 - INFO - Caricamento pagina: https://www.nba.com/game/por-vs-bos-0022301134/play-by-play?period=All
+2025-04-19 18:25:23,145 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:23,604 - INFO - Elaborazione completata per bos-vs-cha-0022301087
+2025-04-19 18:25:23,691 - INFO - Elaborazione completata per okc-vs-bos-0022301105
+2025-04-19 18:25:23,693 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mil-0022301148/play-by-play?period=All
+2025-04-19 18:25:23,694 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:23,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:23,755 - INFO - Caricamento pagina: https://www.nba.com/game/nyk-vs-bos-0022301167/play-by-play?period=All
+2025-04-19 18:25:23,755 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:23,765 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:23,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:23,802 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:23,808 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:23,823 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:23,843 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:23,869 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:23,908 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:26,488 - INFO - Scraped 454 azioni per sac-vs-bos-0022301118
+2025-04-19 18:25:26,931 - INFO - Elaborazione completata per sac-vs-bos-0022301118
+2025-04-19 18:25:26,990 - INFO - Caricamento pagina: https://www.nba.com/game/cha-vs-bos-0022301173/play-by-play?period=All
+2025-04-19 18:25:26,991 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:27,056 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:27,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:27,133 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:29,192 - INFO - Scraped 389 azioni per bos-vs-mil-0022301148
+2025-04-19 18:25:29,562 - INFO - Elaborazione completata per bos-vs-mil-0022301148
+2025-04-19 18:25:29,626 - INFO - Caricamento pagina: https://www.nba.com/game/was-vs-bos-0022301186/play-by-play?period=All
+2025-04-19 18:25:29,626 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:29,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:29,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:29,767 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:30,313 - INFO - Scraped 440 azioni per por-vs-bos-0022301134
+2025-04-19 18:25:31,025 - INFO - Scraped 441 azioni per nyk-vs-bos-0022301167
+2025-04-19 18:25:31,139 - INFO - Elaborazione completata per por-vs-bos-0022301134
+2025-04-19 18:25:31,282 - INFO - Caricamento pagina: https://www.nba.com/game/mia-vs-bos-0042300101/play-by-play?period=All
+2025-04-19 18:25:31,297 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:31,533 - INFO - Elaborazione completata per nyk-vs-bos-0022301167
+2025-04-19 18:25:31,596 - INFO - Caricamento pagina: https://www.nba.com/game/mia-vs-bos-0042300102/play-by-play?period=All
+2025-04-19 18:25:31,596 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:31,600 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:31,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:31,663 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:31,681 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:31,700 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:31,735 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:32,516 - INFO - Scraped 444 azioni per cha-vs-bos-0022301173
+2025-04-19 18:25:32,934 - INFO - Elaborazione completata per cha-vs-bos-0022301173
+2025-04-19 18:25:32,993 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mia-0042300103/play-by-play?period=All
+2025-04-19 18:25:32,993 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:33,055 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:33,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:33,128 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:34,301 - INFO - Scraped 468 azioni per was-vs-bos-0022301186
+2025-04-19 18:25:34,781 - INFO - Elaborazione completata per was-vs-bos-0022301186
+2025-04-19 18:25:34,841 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-mia-0042300104/play-by-play?period=All
+2025-04-19 18:25:34,841 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:34,907 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:34,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:34,989 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:37,018 - INFO - Scraped 432 azioni per mia-vs-bos-0042300102
+2025-04-19 18:25:37,192 - INFO - Scraped 393 azioni per mia-vs-bos-0042300101
+2025-04-19 18:25:38,253 - INFO - Elaborazione completata per mia-vs-bos-0042300102
+2025-04-19 18:25:38,401 - INFO - Elaborazione completata per mia-vs-bos-0042300101
+2025-04-19 18:25:38,428 - INFO - Scraped 410 azioni per bos-vs-mia-0042300103
+2025-04-19 18:25:38,494 - INFO - Caricamento pagina: https://www.nba.com/game/mia-vs-bos-0042300105/play-by-play?period=All
+2025-04-19 18:25:38,501 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:38,558 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0042300201/play-by-play?period=All
+2025-04-19 18:25:38,579 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:38,827 - INFO - Elaborazione completata per bos-vs-mia-0042300103
+2025-04-19 18:25:38,863 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:38,887 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0042300202/play-by-play?period=All
+2025-04-19 18:25:38,888 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:38,890 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:38,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:38,932 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:38,941 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:38,951 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:38,970 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:38,990 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:39,101 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:39,304 - INFO - Scraped 441 azioni per bos-vs-mia-0042300104
+2025-04-19 18:25:39,732 - INFO - Elaborazione completata per bos-vs-mia-0042300104
+2025-04-19 18:25:39,792 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-cle-0042300203/play-by-play?period=All
+2025-04-19 18:25:39,792 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:39,854 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:39,890 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:39,925 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:43,588 - INFO - Scraped 410 azioni per mia-vs-bos-0042300105
+2025-04-19 18:25:44,254 - INFO - Scraped 430 azioni per cle-vs-bos-0042300202
+2025-04-19 18:25:45,012 - INFO - Elaborazione completata per mia-vs-bos-0042300105
+2025-04-19 18:25:45,054 - INFO - Scraped 430 azioni per cle-vs-bos-0042300201
+2025-04-19 18:25:45,387 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-cle-0042300204/play-by-play?period=All
+2025-04-19 18:25:45,398 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:46,080 - INFO - Elaborazione completata per cle-vs-bos-0042300202
+2025-04-19 18:25:46,116 - INFO - Scraped 402 azioni per bos-vs-cle-0042300203
+2025-04-19 18:25:46,421 - INFO - Caricamento pagina: https://www.nba.com/game/cle-vs-bos-0042300205/play-by-play?period=All
+2025-04-19 18:25:46,437 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:46,475 - INFO - Elaborazione completata per cle-vs-bos-0042300201
+2025-04-19 18:25:46,662 - INFO - Caricamento pagina: https://www.nba.com/game/ind-vs-bos-0042300301/play-by-play?period=All
+2025-04-19 18:25:46,667 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:46,667 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,721 - INFO - Elaborazione completata per bos-vs-cle-0042300203
+2025-04-19 18:25:46,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,779 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,784 - INFO - Caricamento pagina: https://www.nba.com/game/ind-vs-bos-0042300302/play-by-play?period=All
+2025-04-19 18:25:46,784 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:46,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,793 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:46,821 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,847 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:46,859 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:46,873 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:46,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:47,039 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:51,631 - INFO - Scraped 396 azioni per cle-vs-bos-0042300205
+2025-04-19 18:25:52,016 - INFO - Elaborazione completata per cle-vs-bos-0042300205
+2025-04-19 18:25:52,075 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-ind-0042300303/play-by-play?period=All
+2025-04-19 18:25:52,075 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:52,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:52,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:52,230 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:52,821 - INFO - Scraped 438 azioni per bos-vs-cle-0042300204
+2025-04-19 18:25:53,264 - INFO - Elaborazione completata per bos-vs-cle-0042300204
+2025-04-19 18:25:53,490 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-ind-0042300304/play-by-play?period=All
+2025-04-19 18:25:53,510 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:53,899 - INFO - Scraped 447 azioni per ind-vs-bos-0042300302
+2025-04-19 18:25:53,917 - INFO - Scraped 526 azioni per ind-vs-bos-0042300301
+2025-04-19 18:25:54,886 - INFO - Elaborazione completata per ind-vs-bos-0042300302
+2025-04-19 18:25:54,897 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:54,973 - INFO - Elaborazione completata per ind-vs-bos-0042300301
+2025-04-19 18:25:54,974 - INFO - Caricamento pagina: https://www.nba.com/game/dal-vs-bos-0042300401/play-by-play?period=All
+2025-04-19 18:25:54,974 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:54,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:55,011 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:55,035 - INFO - Caricamento pagina: https://www.nba.com/game/dal-vs-bos-0042300402/play-by-play?period=All
+2025-04-19 18:25:55,035 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:55,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:55,085 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:55,104 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:55,126 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:55,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:55,211 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:57,591 - INFO - Scraped 459 azioni per bos-vs-ind-0042300303
+2025-04-19 18:25:58,094 - INFO - Elaborazione completata per bos-vs-ind-0042300303
+2025-04-19 18:25:58,156 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-dal-0042300403/play-by-play?period=All
+2025-04-19 18:25:58,156 - INFO - ====== WebDriver manager ======
+2025-04-19 18:25:58,234 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:58,278 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:25:58,324 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:25:59,980 - INFO - Scraped 445 azioni per dal-vs-bos-0042300401
+2025-04-19 18:26:01,062 - INFO - Scraped 471 azioni per bos-vs-ind-0042300304
+2025-04-19 18:26:01,129 - INFO - Scraped 455 azioni per dal-vs-bos-0042300402
+2025-04-19 18:26:01,438 - INFO - Elaborazione completata per dal-vs-bos-0042300401
+2025-04-19 18:26:01,674 - INFO - Caricamento pagina: https://www.nba.com/game/bos-vs-dal-0042300404/play-by-play?period=All
+2025-04-19 18:26:01,679 - INFO - ====== WebDriver manager ======
+2025-04-19 18:26:02,130 - INFO - Elaborazione completata per dal-vs-bos-0042300402
+2025-04-19 18:26:02,208 - INFO - Elaborazione completata per bos-vs-ind-0042300304
+2025-04-19 18:26:02,210 - INFO - Caricamento pagina: https://www.nba.com/game/dal-vs-bos-0042300405/play-by-play?period=All
+2025-04-19 18:26:02,211 - INFO - ====== WebDriver manager ======
+2025-04-19 18:26:02,241 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:26:02,275 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:26:02,284 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:26:02,317 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-19 18:26:02,323 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:26:02,356 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/135.0.7049.95/chromedriver-linux64/chromedriver] found in cache
+2025-04-19 18:26:02,962 - INFO - Scraped 423 azioni per bos-vs-dal-0042300403
+2025-04-19 18:26:03,357 - INFO - Elaborazione completata per bos-vs-dal-0042300403
+2025-04-19 18:26:06,782 - INFO - Scraped 453 azioni per bos-vs-dal-0042300404
+2025-04-19 18:26:07,627 - INFO - Scraped 447 azioni per dal-vs-bos-0042300405
+2025-04-19 18:26:08,262 - INFO - Elaborazione completata per bos-vs-dal-0042300404
+2025-04-19 18:26:08,514 - INFO - Elaborazione completata per dal-vs-bos-0042300405
+2025-04-19 18:26:09,947 - INFO - Scraping completato. Dati salvati in play_by_play_bos.json (101 partite).
