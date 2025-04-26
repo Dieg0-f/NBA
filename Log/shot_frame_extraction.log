@@ -1,0 +1,68 @@
+2025-04-26 14:54:23 - INFO - Avvio elaborazione database
+2025-04-26 14:54:24 - INFO - Elaborazione entry 0 del database
+2025-04-26 14:54:24 - INFO - Elaborazione entry 1 del database
+2025-04-26 14:54:24 - WARNING - Entry 1: videoID mancante
+2025-04-26 14:54:24 - INFO - Elaborazione entry 2 del database
+2025-04-26 14:54:24 - INFO - Elaborazione entry 3 del database
+2025-04-26 14:54:24 - WARNING - Entry 3: videoID mancante
+2025-04-26 14:54:24 - INFO - Elaborazione entry 4 del database
+2025-04-26 14:54:24 - INFO - Elaborazione entry 5 del database
+2025-04-26 14:54:24 - WARNING - Entry 5: videoID mancante
+2025-04-26 14:54:24 - INFO - Elaborazione entry 6 del database
+2025-04-26 14:54:24 - WARNING - Entry 6: videoID mancante
+2025-04-26 14:54:24 - INFO - Elaborazione entry 7 del database
+2025-04-26 14:54:24 - INFO - Elaborazione entry 8 del database
+2025-04-26 14:54:24 - WARNING - Entry 8: videoID mancante
+2025-04-26 14:54:24 - INFO - Elaborazione entry 9 del database
+2025-04-26 14:54:24 - INFO - Avvio elaborazione con 5 processi paralleli
+2025-04-26 14:54:24 - INFO - Cercando il timestamp: 10:05 nel video: bos-vs-nyk-0022300065_1_10:05.mp4
+2025-04-26 14:54:24 - INFO - Cercando il timestamp: 11:10 nel video: bos-vs-nyk-0022300065_1_11:10.mp4
+2025-04-26 14:54:24 - INFO - Cercando il timestamp: 11:48 nel video: bos-vs-nyk-0022300065_1_11:48.mp4
+2025-04-26 14:54:24 - INFO - Cercando il timestamp: 09:43 nel video: bos-vs-nyk-0022300065_1_09:43.mp4
+2025-04-26 14:54:24 - INFO - Cercando il timestamp: 10:42 nel video: bos-vs-nyk-0022300065_1_10:42.mp4
+2025-04-26 14:54:24 - INFO - Video: bos-vs-nyk-0022300065_1_11:10.mp4
+2025-04-26 14:54:24 - INFO - Durata: 10.52 secondi (631 frames)
+2025-04-26 14:54:24 - INFO - FPS: 60.0
+2025-04-26 14:54:24 - INFO - Progresso: 0.0% (tempo rimanente stimato: 0.0s)
+2025-04-26 14:54:24 - INFO - Video: bos-vs-nyk-0022300065_1_09:43.mp4
+2025-04-26 14:54:24 - INFO - Durata: 9.37 secondi (562 frames)
+2025-04-26 14:54:24 - INFO - FPS: 60.0
+2025-04-26 14:54:24 - INFO - Progresso: 0.0% (tempo rimanente stimato: 0.0s)
+2025-04-26 14:54:24 - INFO - Video: bos-vs-nyk-0022300065_1_10:05.mp4
+2025-04-26 14:54:24 - INFO - Durata: 7.57 secondi (454 frames)
+2025-04-26 14:54:24 - INFO - FPS: 60.0
+2025-04-26 14:54:24 - INFO - Video: bos-vs-nyk-0022300065_1_11:48.mp4
+2025-04-26 14:54:24 - INFO - Progresso: 0.0% (tempo rimanente stimato: 0.0s)
+2025-04-26 14:54:24 - INFO - Durata: 9.57 secondi (574 frames)
+2025-04-26 14:54:24 - INFO - FPS: 60.0
+2025-04-26 14:54:24 - INFO - Progresso: 0.0% (tempo rimanente stimato: 0.0s)
+2025-04-26 14:54:24 - INFO - Video: bos-vs-nyk-0022300065_1_10:42.mp4
+2025-04-26 14:54:24 - INFO - Durata: 6.82 secondi (409 frames)
+2025-04-26 14:54:24 - INFO - FPS: 60.0
+2025-04-26 14:54:24 - INFO - Progresso: 0.0% (tempo rimanente stimato: 0.0s)
+2025-04-26 14:55:30 - INFO - Progresso: 47.5% (tempo rimanente stimato: 72.9s)
+2025-04-26 14:55:41 - INFO - Trovato timestamp 10:42 nel frame 210
+2025-04-26 14:55:48 - INFO - Progresso: 52.3% (tempo rimanente stimato: 76.5s)
+2025-04-26 14:55:49 - INFO - Trovato timestamp 10:42 nel frame 240
+2025-04-26 14:55:58 - INFO - Progresso: 73.3% (tempo rimanente stimato: 34.0s)
+2025-04-26 14:55:58 - INFO - Progresso: 53.4% (tempo rimanente stimato: 82.3s)
+2025-04-26 14:55:59 - INFO - Trovato timestamp 11:48 nel frame 330
+2025-04-26 14:56:01 - INFO - Trovato timestamp 10:05 nel frame 270
+2025-04-26 14:56:01 - INFO - Progresso: 66.1% (tempo rimanente stimato: 49.7s)
+2025-04-26 14:56:06 - INFO - Trovato timestamp 10:05 nel frame 300
+2025-04-26 14:56:10 - INFO - Trovato timestamp 11:48 nel frame 360
+2025-04-26 14:56:22 - INFO - Trovato timestamp 09:43 nel frame 360
+2025-04-26 14:56:26 - INFO - Trovato timestamp 09:43 nel frame 390
+2025-04-26 14:56:39 - INFO - Trovato timestamp 11:10 nel frame 480
+2025-04-26 14:56:43 - INFO - Trovato timestamp 11:10 nel frame 510
+2025-04-26 14:56:44 - INFO - Progresso: 95.1% (tempo rimanente stimato: 7.2s)
+2025-04-26 14:56:45 - INFO - Riepilogo dell'estrazione dei frame:
+2025-04-26 14:56:45 - INFO - Video: bos-vs-nyk-0022300065_1_10:42.mp4 - Frame estratti: 2
+2025-04-26 14:56:45 - INFO - Video: bos-vs-nyk-0022300065_1_10:05.mp4 - Frame estratti: 2
+2025-04-26 14:56:45 - INFO - Video: bos-vs-nyk-0022300065_1_09:43.mp4 - Frame estratti: 2
+2025-04-26 14:56:45 - INFO - Video: bos-vs-nyk-0022300065_1_11:48.mp4 - Frame estratti: 2
+2025-04-26 14:56:45 - INFO - Video: bos-vs-nyk-0022300065_1_11:10.mp4 - Frame estratti: 2
+2025-04-26 14:56:45 - INFO - Totale frame estratti: 10
+2025-04-26 14:56:45 - INFO - Media frame per video: 2.00
+2025-04-26 14:56:45 - INFO - Tempo totale di esecuzione: 141.41 secondi
+2025-04-26 14:56:45 - INFO - Elaborazione completata

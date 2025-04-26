@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 16
+names: ['3_dx', '3_sx', 'b_dx', 'b_sx', 'free_adx', 'free_asx', 'free_bdx', 'free_bsx', 'half_dx', 'half_sx', 'mid_dx', 'mid_sx', 'referee', 'team', 'team1', 'timer']
+
+roboflow:
+  workspace: nba-player-detection
+  project: my-first-project-ru1kv
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nba-player-detection/my-first-project-ru1kv/dataset/2
