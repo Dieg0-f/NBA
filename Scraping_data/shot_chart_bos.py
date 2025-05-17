@@ -12,6 +12,8 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import tqdm
 
+# Scarica la posizione di tutti i tiri delle partite dei boston filtrando da game_links.json
+
 # Set up logging
 log_dir = Path("Log")
 log_dir.mkdir(exist_ok=True)

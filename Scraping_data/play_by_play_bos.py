@@ -16,6 +16,9 @@ from functools import lru_cache
 #import pickle
 import traceback
 
+
+# Scarica tutte play di tutte le partite dei boston
+
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,

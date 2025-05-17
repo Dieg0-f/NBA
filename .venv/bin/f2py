@@ -1,4 +1,4 @@
-#!/home/diego/Documents/GitHub/NBA/.venv/bin/python3
+#!/home/diego/Documents/GitHub/NBA/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
