@@ -1,8 +1,13 @@
 # In terminal write:
 # pip install -r .\requirements.txt
 
+ultralytics
+requests
+numpy
 beautifulsoup4
 pandas
 selenium
 webdriver-manager
-ultralytics
+tqdm
+opencv-python
+pytesseract
