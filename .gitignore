@@ -4,3 +4,4 @@ Scraping_data/play_by_play.json
 Computer_vision/Frames_for_annotations/
 Computer_vision/Frames_of_shot/
 .venv/lib
+yolov8x.pt
