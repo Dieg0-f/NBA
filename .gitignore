@@ -5,3 +5,5 @@ Computer_vision/Frames_for_annotations/
 Computer_vision/Frames_of_shot/
 .venv/lib
 yolov8x.pt
+Computer_vision/player_detection_model/weights/best.pt
+Computer_vision/player_detection_model/weights/last.pt
