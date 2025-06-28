@@ -11,3 +11,11 @@ webdriver-manager
 tqdm
 opencv-python
 pytesseract
+
+
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+pytesseract>=0.3.10
+numpy>=1.21.0
+pathlib
+Pillow>=9.0.0
