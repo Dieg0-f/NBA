@@ -13,22 +13,27 @@ from selenium.webdriver.chrome.options import Options
 import logging
 from concurrent.futures import ThreadPoolExecutor
 from functools import lru_cache
-#import pickle
 import traceback
+from tqdm import tqdm
+import threading
 
-
-# Scarica tutte play di tutte le partite
+# Create log directory if it doesn't exist
+log_dir = 'Log'
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
 
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('Log/scrape_play_by_play.log', mode='a', encoding='utf-8'),
-        logging.StreamHandler()
+        logging.FileHandler('Log/3_play_by_play.log', mode='a', encoding='utf-8')
     ]
 )
 logger = logging.getLogger()
+
+# Lock per thread-safe file operations
+file_lock = threading.Lock()
 
 def time_to_seconds(time_str):
     """Converte il formato tempo in secondi"""
@@ -61,23 +66,24 @@ def load_data():
         sorted_names = sorted(players_dict.keys(), key=len, reverse=True)
         
         # Caricamento play_by_play esistenti da CSV
-        play_by_play_df = pd.DataFrame()
         processed_games = set()
+        csv_file = '3_play_by_play.csv'
         
-        if os.path.exists('3_play_by_play.csv'):
+        if os.path.exists(csv_file):
             try:
-                play_by_play_df = pd.read_csv('3_play_by_play.csv')
-                processed_games = set(play_by_play_df['gameID'].unique())
-                logging.info(f"Caricati {len(processed_games)} giochi già elaborati dal CSV")
+                # Leggi solo la colonna gameID per identificare i giochi processati
+                existing_games = pd.read_csv(csv_file, usecols=['gameID'])
+                processed_games = set(existing_games['gameID'].unique())
+                logging.info(f"Trovati {len(processed_games)} giochi già elaborati nel CSV")
             except Exception as e:
                 logging.warning(f"Errore nel caricamento del CSV esistente: {str(e)}")
-                play_by_play_df = pd.DataFrame()
+                processed_games = set()
         
-        return game_links, sorted_names, play_by_play_df, processed_games
+        return game_links, sorted_names, processed_games, csv_file
     except Exception as e:
         logging.error(f"Errore durante il caricamento dei dati: {str(e)}")
         logging.error(traceback.format_exc())
-        return [], [], pd.DataFrame(), set()
+        return [], [], set(), '3_play_by_play.csv'
 
 @lru_cache(maxsize=1024)
 def find_player_name(description, sorted_names):
@@ -95,7 +101,7 @@ def setup_driver():
     """Configurazione ottimizzata del driver Selenium"""
     try:
         options = Options()
-        options.add_argument("--headless")  # Esecuzione headless per maggiore velocità
+        options.add_argument("--headless")
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
@@ -103,7 +109,12 @@ def setup_driver():
         options.add_argument("--disable-browser-side-navigation")
         options.add_argument("--disable-infobars")
         options.add_argument("--disable-notifications")
-        options.page_load_strategy = 'eager'  # Carica solo il DOM essenziale
+        options.page_load_strategy = 'eager'
+        
+        # Silenzia i log del driver
+        options.add_argument('--log-level=3')
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        options.add_experimental_option('useAutomationExtension', False)
         
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
@@ -114,8 +125,26 @@ def setup_driver():
         logging.error(traceback.format_exc())
         return None
 
-def process_game(url, sorted_names):
-    """Elabora un singolo gioco - funzione da eseguire in parallelo"""
+def append_to_csv(df, csv_file):
+    """Appende i dati al CSV in modo thread-safe"""
+    with file_lock:
+        try:
+            # Controlla se il file esiste già
+            if os.path.exists(csv_file):
+                # Appendi senza header
+                df.to_csv(csv_file, mode='a', header=False, index=False, encoding='utf-8')
+            else:
+                # Crea il file con header
+                df.to_csv(csv_file, mode='w', header=True, index=False, encoding='utf-8')
+            
+            logging.info(f"Aggiunte {len(df)} righe al CSV {csv_file}")
+            return True
+        except Exception as e:
+            logging.error(f"Errore durante l'aggiunta al CSV: {str(e)}")
+            return False
+
+def process_game(url, sorted_names, csv_file):
+    """Elabora un singolo gioco e salva immediatamente i risultati"""
     logging.info(f"Caricamento pagina: {url}")
     gameID = url[25:46]
     
@@ -123,11 +152,11 @@ def process_game(url, sorted_names):
     driver = setup_driver()
     if not driver:
         logging.error(f"Impossibile creare il driver per {url}")
-        return None
+        return False
     
     try:
         driver.get(url)
-        time.sleep(2)  # Piccola pausa per garantire il caricamento
+        time.sleep(2)
         
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -137,7 +166,7 @@ def process_game(url, sorted_names):
         t = 12
         quarter = 1
         
-        # Precompilazone delle regex per migliorare le prestazioni
+        # Precompilazione delle regex per migliorare le prestazioni
         ast_pattern = re.compile(r"\(([A-Za-z\s\W]+)\s(\d+)\sAST\)$")
         shot_pattern = re.compile(r"\s?(\d+')?\s?(\d+PT[a-zA-Z]?)?\s?([A-Za-z\s\W]+)\s(\((\d+)\sPT[a-zA-Z]?\))(\s+)?$")
         shot_miss_pattern = re.compile(r"\s?(\d+')?\s?(\d+PT[a-zA-Z]?)?s?([A-Za-z\s\W]+)")
@@ -242,9 +271,9 @@ def process_game(url, sorted_names):
         
         if not play_data:
             logging.warning(f"Nessuna azione trovata per {gameID}")
-            return None
+            return False
         
-        # Processare direttamente il DataFrame per migliorare l'efficienza
+        # Processare direttamente il DataFrame
         df = pd.DataFrame(play_data)
         
         # Calcolo shot clock in modo sicuro
@@ -293,8 +322,6 @@ def process_game(url, sorted_names):
             # Tracciamento giocatori in campo in modo sicuro
             for i in range(1, 6):
                 df[f'Ph{i}'] = ''
-
-            for i in range(1, 6):
                 df[f'Pa{i}'] = ''
 
             home_players = [None] * 5
@@ -325,15 +352,23 @@ def process_game(url, sorted_names):
                 for i in range(5):
                     df.loc[idx, f'Ph{i+1}'] = home_players[i]
                     df.loc[idx, f'Pa{i+1}'] = away_players[i]
-            logging.info(f"Elaborazione completata per {gameID}")
-            return df
+            
+            # Salva immediatamente nel CSV
+            success = append_to_csv(df, csv_file)
+            if success:
+                logging.info(f"Elaborazione e salvataggio completati per {gameID}")
+                return True
+            else:
+                logging.error(f"Errore nel salvataggio per {gameID}")
+                return False
         else:
             logging.warning(f"DataFrame vuoto per {gameID}")
-            return None
+            return False
         
     except Exception as e:
         logging.error(f"Errore durante l'elaborazione di {url}: {str(e)}")
         logging.error(traceback.format_exc())
+        return False
     
     finally:
         try:
@@ -341,34 +376,9 @@ def process_game(url, sorted_names):
                 driver.quit()
         except Exception as e:
             logging.error(f"Errore durante la chiusura del driver: {str(e)}")
-    
-    return None
-
-def save_to_csv(main_df, new_dfs, filename='3_play_by_play.csv'):
-    """Salva i dati in formato CSV"""
-    try:
-        # Combina il DataFrame principale con i nuovi dati
-        all_dfs = [main_df] if not main_df.empty else []
-        all_dfs.extend([df for df in new_dfs if df is not None and not df.empty])
-        
-        if all_dfs:
-            combined_df = pd.concat(all_dfs, ignore_index=True)
-            
-            # Salva in CSV
-            combined_df.to_csv(filename, index=False, encoding='utf-8')
-            logging.info(f"Dati salvati in {filename} ({len(combined_df)} righe totali)")
-            return combined_df
-        else:
-            logging.warning("Nessun dato da salvare")
-            return pd.DataFrame()
-            
-    except Exception as e:
-        logging.error(f"Errore durante il salvataggio CSV: {str(e)}")
-        logging.error(traceback.format_exc())
-        return pd.DataFrame()
 
 def main():
-    game_links, sorted_names, existing_df, processed_games = load_data()
+    game_links, sorted_names, processed_games, csv_file = load_data()
     
     # Filtra i link non elaborati
     unprocessed_links = []
@@ -378,51 +388,57 @@ def main():
             unprocessed_links.append(f"{link}/play-by-play?period=All")
     
     logging.info(f"Da elaborare {len(unprocessed_links)} link su {len(game_links)} totali")
+    print(f"Da elaborare {len(unprocessed_links)} link su {len(game_links)} totali")
     
     # Controllo se ci sono link da elaborare
     if not unprocessed_links:
         logging.info("Nessun nuovo link da elaborare")
+        print("Nessun nuovo link da elaborare")
         return
     
-    # Lista per raccogliere i nuovi DataFrame
-    new_dataframes = []
+    # Contatori per il tracking
+    successful_games = 0
+    failed_games = 0
     
-    # Gestione delle risorse - limita il numero di thread
-    max_workers = min(4, len(unprocessed_links))
+    # Gestione delle risorse - limita il numero di thread per evitare sovraccarico
+    max_workers = min(3, len(unprocessed_links))  # Ridotto per stabilità
     
-    # Esecuzione multithread per migliorare la velocità
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_url = {executor.submit(process_game, url, sorted_names): url for url in unprocessed_links}
-        
-        for future in future_to_url:
-            url = future_to_url[future]
-            try:
-                df = future.result()
-                if df is not None and not df.empty:
-                    new_dataframes.append(df)
-                    
-                    # Salvataggio incrementale ogni 10 partite per sicurezza
-                    if len(new_dataframes) % 10 == 0:
-                        temp_df = save_to_csv(existing_df, new_dataframes, 'temp_play_by_play.csv')
-                        if not temp_df.empty:
-                            existing_df = temp_df
-                            logging.info(f"Salvataggio incrementale completato ({len(new_dataframes)} nuove partite)")
-                    
-            except Exception as e:
-                logging.error(f"Errore durante l'elaborazione di {url}: {str(e)}")
-                logging.error(traceback.format_exc())
-    
-    # Salvataggio finale
-    if new_dataframes:
-        final_df = save_to_csv(existing_df, new_dataframes, '3_play_by_play.csv')
-        
-        # Rimuovi il file temporaneo se esiste
-        if os.path.exists('temp_play_by_play.csv'):
-            os.remove('temp_play_by_play.csv')
+    # Barra di progresso
+    with tqdm(total=len(unprocessed_links), desc="Scraping partite", unit="partita") as pbar:
+        # Esecuzione multithread
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_to_url = {
+                executor.submit(process_game, url, sorted_names, csv_file): url 
+                for url in unprocessed_links
+            }
             
-        logging.info(f"Scraping completato. Dati salvati in CSV ({len(new_dataframes)} nuove partite elaborate).")
-    else:
-        logging.info("Nessuna nuova partita elaborata.")
+            for future in future_to_url:
+                url = future_to_url[future]
+                try:
+                    success = future.result()
+                    if success:
+                        successful_games += 1
+                    else:
+                        failed_games += 1
+                        
+                except Exception as e:
+                    failed_games += 1
+                    logging.error(f"Errore durante l'elaborazione di {url}: {str(e)}")
+                    logging.error(traceback.format_exc())
+                
+                # Aggiorna la barra di progresso
+                pbar.update(1)
+                pbar.set_postfix({
+                    'Successo': successful_games, 
+                    'Falliti': failed_games
+                })
+    
+    # Statistiche finali
+    logging.info(f"Scraping completato. Partite elaborate con successo: {successful_games}, Fallite: {failed_games}")
+    print(f"Scraping completato!")
+    print(f"Partite elaborate con successo: {successful_games}")
+    print(f"Partite fallite: {failed_games}")
+    print(f"Dati salvati in: {csv_file}")
 
 if __name__ == "__main__":
     try:
