@@ -1,0 +1,1495 @@
+2025-06-30 21:18:35,008 - INFO - Starting simplified shot chart scraping
+2025-06-30 21:18:35,009 - INFO - Loaded 1327 total game links
+2025-06-30 21:18:35,009 - INFO - Found 1327 unprocessed games
+2025-06-30 21:18:35,010 - INFO - Processing game: nyk-vs-bos-0022400061
+2025-06-30 21:18:35,010 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:35,010 - INFO - Processing game: min-vs-lal-0022400062
+2025-06-30 21:18:35,010 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:35,010 - INFO - Processing game: ind-vs-det-0022400063
+2025-06-30 21:18:35,011 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:35,011 - INFO - Processing game: cle-vs-tor-0022400067
+2025-06-30 21:18:35,020 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:35,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,190 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,190 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,267 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,269 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:35,306 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:35,306 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:35,312 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:35,313 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:39,864 - INFO - Found 173 shot elements for nyk-vs-bos-0022400061
+2025-06-30 21:18:39,876 - INFO - Added 173 shots to CSV
+2025-06-30 21:18:39,876 - INFO - Successfully processed nyk-vs-bos-0022400061: 173 shots
+2025-06-30 21:18:39,933 - INFO - Processing game: mil-vs-phi-0022400066
+2025-06-30 21:18:39,933 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:40,043 - INFO - Found 171 shot elements for ind-vs-det-0022400063
+2025-06-30 21:18:40,050 - INFO - Added 171 shots to CSV
+2025-06-30 21:18:40,050 - INFO - Successfully processed ind-vs-det-0022400063: 171 shots
+2025-06-30 21:18:40,133 - INFO - Found 180 shot elements for min-vs-lal-0022400062
+2025-06-30 21:18:40,141 - INFO - Added 180 shots to CSV
+2025-06-30 21:18:40,142 - INFO - Successfully processed min-vs-lal-0022400062: 180 shots
+2025-06-30 21:18:40,142 - INFO - Processing game: orl-vs-mia-0022400065
+2025-06-30 21:18:40,143 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:40,183 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,198 - INFO - Processing game: bkn-vs-atl-0022400064
+2025-06-30 21:18:40,199 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:40,227 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,269 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:40,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,295 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,336 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,337 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:40,379 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:40,679 - INFO - Found 173 shot elements for cle-vs-tor-0022400067
+2025-06-30 21:18:40,686 - INFO - Added 173 shots to CSV
+2025-06-30 21:18:40,686 - INFO - Successfully processed cle-vs-tor-0022400067: 173 shots
+2025-06-30 21:18:40,743 - INFO - Processing game: chi-vs-nop-0022400069
+2025-06-30 21:18:40,743 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:40,838 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:40,931 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:44,864 - INFO - Found 178 shot elements for mil-vs-phi-0022400066
+2025-06-30 21:18:44,873 - INFO - Added 178 shots to CSV
+2025-06-30 21:18:44,873 - INFO - Successfully processed mil-vs-phi-0022400066: 178 shots
+2025-06-30 21:18:44,932 - INFO - Processing game: cha-vs-hou-0022400068
+2025-06-30 21:18:44,933 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:45,047 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:45,096 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:45,142 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:45,370 - INFO - Found 178 shot elements for orl-vs-mia-0022400065
+2025-06-30 21:18:45,377 - INFO - Added 178 shots to CSV
+2025-06-30 21:18:45,377 - INFO - Successfully processed orl-vs-mia-0022400065: 178 shots
+2025-06-30 21:18:45,433 - INFO - Processing game: mem-vs-uta-0022400070
+2025-06-30 21:18:45,434 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:45,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:45,578 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:45,617 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:45,901 - INFO - Found 171 shot elements for bkn-vs-atl-0022400064
+2025-06-30 21:18:45,908 - INFO - Added 171 shots to CSV
+2025-06-30 21:18:45,908 - INFO - Successfully processed bkn-vs-atl-0022400064: 171 shots
+2025-06-30 21:18:45,966 - INFO - Processing game: gsw-vs-por-0022400072
+2025-06-30 21:18:45,967 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:46,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:46,108 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:46,148 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:46,515 - INFO - Found 183 shot elements for chi-vs-nop-0022400069
+2025-06-30 21:18:46,523 - INFO - Added 183 shots to CSV
+2025-06-30 21:18:46,523 - INFO - Successfully processed chi-vs-nop-0022400069: 183 shots
+2025-06-30 21:18:46,581 - INFO - Processing game: phx-vs-lac-0022400071
+2025-06-30 21:18:46,582 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:46,678 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:46,716 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:46,754 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:51,316 - INFO - Found 176 shot elements for mem-vs-uta-0022400070
+2025-06-30 21:18:51,322 - INFO - Added 176 shots to CSV
+2025-06-30 21:18:51,322 - INFO - Successfully processed mem-vs-uta-0022400070: 176 shots
+2025-06-30 21:18:51,379 - INFO - Processing game: bos-vs-was-0022400073
+2025-06-30 21:18:51,379 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:51,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:51,858 - INFO - Found 188 shot elements for cha-vs-hou-0022400068
+2025-06-30 21:18:51,865 - INFO - Added 188 shots to CSV
+2025-06-30 21:18:51,865 - INFO - Successfully processed cha-vs-hou-0022400068: 188 shots
+2025-06-30 21:18:51,923 - INFO - Processing game: sas-vs-dal-0022400074
+2025-06-30 21:18:51,923 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:52,023 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:52,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:52,217 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:52,295 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:52,333 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:54,327 - INFO - Found 185 shot elements for gsw-vs-por-0022400072
+2025-06-30 21:18:54,334 - INFO - Added 185 shots to CSV
+2025-06-30 21:18:54,334 - INFO - Successfully processed gsw-vs-por-0022400072: 185 shots
+2025-06-30 21:18:54,392 - INFO - Processing game: min-vs-sac-0022400076
+2025-06-30 21:18:54,393 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:54,485 - INFO - Found 170 shot elements for phx-vs-lac-0022400071
+2025-06-30 21:18:54,491 - INFO - Added 158 shots to CSV
+2025-06-30 21:18:54,491 - INFO - Successfully processed phx-vs-lac-0022400071: 158 shots
+2025-06-30 21:18:54,549 - INFO - Processing game: okc-vs-den-0022400075
+2025-06-30 21:18:54,549 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:54,561 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:54,596 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:54,636 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:54,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:54,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:54,726 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:57,588 - INFO - Found 185 shot elements for bos-vs-was-0022400073
+2025-06-30 21:18:57,598 - INFO - Added 185 shots to CSV
+2025-06-30 21:18:57,598 - INFO - Successfully processed bos-vs-was-0022400073: 185 shots
+2025-06-30 21:18:57,718 - INFO - Found 188 shot elements for sas-vs-dal-0022400074
+2025-06-30 21:18:57,726 - INFO - Processing game: phi-vs-tor-0022400078
+2025-06-30 21:18:57,726 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:57,727 - INFO - Added 188 shots to CSV
+2025-06-30 21:18:57,727 - INFO - Successfully processed sas-vs-dal-0022400074: 188 shots
+2025-06-30 21:18:57,784 - INFO - Processing game: bkn-vs-orl-0022400077
+2025-06-30 21:18:57,784 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:57,836 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:57,880 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:57,888 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:57,920 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:57,926 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:57,974 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:59,421 - INFO - Found 168 shot elements for min-vs-sac-0022400076
+2025-06-30 21:18:59,428 - INFO - Added 168 shots to CSV
+2025-06-30 21:18:59,428 - INFO - Successfully processed min-vs-sac-0022400076: 168 shots
+2025-06-30 21:18:59,488 - INFO - Processing game: ind-vs-nyk-0022400081
+2025-06-30 21:18:59,488 - INFO - ====== WebDriver manager ======
+2025-06-30 21:18:59,590 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:59,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:18:59,744 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:18:59,826 - INFO - Found 199 shot elements for okc-vs-den-0022400075
+2025-06-30 21:18:59,834 - INFO - Added 199 shots to CSV
+2025-06-30 21:18:59,834 - INFO - Successfully processed okc-vs-den-0022400075: 199 shots
+2025-06-30 21:18:59,895 - INFO - Processing game: det-vs-cle-0022400080
+2025-06-30 21:18:59,896 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:00,010 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:00,049 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:00,088 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:02,373 - INFO - Found 152 shot elements for phi-vs-tor-0022400078
+2025-06-30 21:19:02,379 - INFO - Added 152 shots to CSV
+2025-06-30 21:19:02,379 - INFO - Successfully processed phi-vs-tor-0022400078: 152 shots
+2025-06-30 21:19:02,436 - INFO - Processing game: cha-vs-atl-0022400079
+2025-06-30 21:19:02,436 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:02,552 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:02,609 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:02,664 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:04,074 - INFO - Found 167 shot elements for ind-vs-nyk-0022400081
+2025-06-30 21:19:04,082 - INFO - Added 167 shots to CSV
+2025-06-30 21:19:04,082 - INFO - Successfully processed ind-vs-nyk-0022400081: 167 shots
+2025-06-30 21:19:04,139 - INFO - Processing game: chi-vs-mil-0022400083
+2025-06-30 21:19:04,139 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:04,240 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:04,278 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:04,315 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:04,555 - INFO - Found 158 shot elements for bkn-vs-orl-0022400077
+2025-06-30 21:19:04,589 - INFO - Added 158 shots to CSV
+2025-06-30 21:19:04,594 - INFO - Successfully processed bkn-vs-orl-0022400077: 158 shots
+2025-06-30 21:19:04,639 - INFO - Found 163 shot elements for det-vs-cle-0022400080
+2025-06-30 21:19:04,645 - INFO - Added 163 shots to CSV
+2025-06-30 21:19:04,645 - INFO - Successfully processed det-vs-cle-0022400080: 163 shots
+2025-06-30 21:19:04,658 - INFO - Processing game: mem-vs-hou-0022400082
+2025-06-30 21:19:04,658 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:04,703 - INFO - Processing game: gsw-vs-uta-0022400084
+2025-06-30 21:19:04,703 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:04,755 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:04,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:04,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:04,836 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:04,839 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:04,880 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:07,384 - INFO - Found 177 shot elements for cha-vs-atl-0022400079
+2025-06-30 21:19:07,393 - INFO - Added 177 shots to CSV
+2025-06-30 21:19:07,393 - INFO - Successfully processed cha-vs-atl-0022400079: 177 shots
+2025-06-30 21:19:07,451 - INFO - Processing game: nop-vs-por-0022400086
+2025-06-30 21:19:07,452 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:07,559 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:07,615 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:07,687 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:08,867 - INFO - Found 189 shot elements for chi-vs-mil-0022400083
+2025-06-30 21:19:08,874 - INFO - Added 189 shots to CSV
+2025-06-30 21:19:08,874 - INFO - Successfully processed chi-vs-mil-0022400083: 189 shots
+2025-06-30 21:19:08,934 - INFO - Processing game: phx-vs-lal-0022400085
+2025-06-30 21:19:08,934 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:09,033 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:09,467 - INFO - Found 198 shot elements for gsw-vs-uta-0022400084
+2025-06-30 21:19:09,474 - INFO - Added 198 shots to CSV
+2025-06-30 21:19:09,474 - INFO - Successfully processed gsw-vs-uta-0022400084: 198 shots
+2025-06-30 21:19:09,532 - INFO - Processing game: lac-vs-den-0022400087
+2025-06-30 21:19:09,532 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:09,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:10,833 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:10,836 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:10,873 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:10,875 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:12,906 - INFO - Found 189 shot elements for mem-vs-hou-0022400082
+2025-06-30 21:19:12,914 - INFO - Added 189 shots to CSV
+2025-06-30 21:19:12,914 - INFO - Successfully processed mem-vs-hou-0022400082: 189 shots
+2025-06-30 21:19:12,972 - INFO - Processing game: cle-vs-was-0022400090
+2025-06-30 21:19:12,972 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:13,082 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:13,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:13,193 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:15,196 - INFO - Found 176 shot elements for nop-vs-por-0022400086
+2025-06-30 21:19:15,204 - INFO - Added 176 shots to CSV
+2025-06-30 21:19:15,204 - INFO - Successfully processed nop-vs-por-0022400086: 176 shots
+2025-06-30 21:19:15,415 - INFO - Processing game: bos-vs-det-0022400089
+2025-06-30 21:19:15,420 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:15,432 - INFO - Found 169 shot elements for lac-vs-den-0022400087
+2025-06-30 21:19:15,437 - INFO - Found 157 shot elements for phx-vs-lal-0022400085
+2025-06-30 21:19:15,448 - INFO - Added 169 shots to CSV
+2025-06-30 21:19:15,448 - INFO - Successfully processed lac-vs-den-0022400087: 169 shots
+2025-06-30 21:19:15,450 - INFO - Added 157 shots to CSV
+2025-06-30 21:19:15,450 - INFO - Successfully processed phx-vs-lal-0022400085: 157 shots
+2025-06-30 21:19:15,505 - INFO - Processing game: mia-vs-cha-0022400088
+2025-06-30 21:19:15,506 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:15,510 - INFO - Processing game: tor-vs-min-0022400093
+2025-06-30 21:19:15,510 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:15,548 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:15,584 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:15,602 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:15,604 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:15,620 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:15,645 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:15,646 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:15,682 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:15,685 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:18,873 - INFO - Found 184 shot elements for cle-vs-was-0022400090
+2025-06-30 21:19:18,880 - INFO - Added 184 shots to CSV
+2025-06-30 21:19:18,880 - INFO - Successfully processed cle-vs-was-0022400090: 184 shots
+2025-06-30 21:19:18,938 - INFO - Processing game: orl-vs-mem-0022400092
+2025-06-30 21:19:18,938 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:19,037 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:19,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:19,148 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:19,441 - INFO - Found 178 shot elements for bos-vs-det-0022400089
+2025-06-30 21:19:19,450 - INFO - Added 178 shots to CSV
+2025-06-30 21:19:19,450 - INFO - Successfully processed bos-vs-det-0022400089: 178 shots
+2025-06-30 21:19:19,507 - INFO - Processing game: okc-vs-chi-0022400091
+2025-06-30 21:19:19,507 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:19,614 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:19,656 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:19,699 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:19,897 - INFO - Found 175 shot elements for mia-vs-cha-0022400088
+2025-06-30 21:19:19,904 - INFO - Added 175 shots to CSV
+2025-06-30 21:19:19,904 - INFO - Successfully processed mia-vs-cha-0022400088: 175 shots
+2025-06-30 21:19:19,964 - INFO - Processing game: hou-vs-sas-0022400094
+2025-06-30 21:19:19,964 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:20,064 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:20,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:20,150 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:20,978 - INFO - Found 173 shot elements for tor-vs-min-0022400093
+2025-06-30 21:19:20,985 - INFO - Added 173 shots to CSV
+2025-06-30 21:19:20,985 - INFO - Successfully processed tor-vs-min-0022400093: 173 shots
+2025-06-30 21:19:21,044 - INFO - Processing game: dal-vs-phx-0022400095
+2025-06-30 21:19:21,044 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:21,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:21,182 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:21,224 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:23,558 - INFO - Found 199 shot elements for okc-vs-chi-0022400091
+2025-06-30 21:19:23,567 - INFO - Added 199 shots to CSV
+2025-06-30 21:19:23,567 - INFO - Successfully processed okc-vs-chi-0022400091: 199 shots
+2025-06-30 21:19:23,623 - INFO - Processing game: sac-vs-lal-0022400096
+2025-06-30 21:19:23,624 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:23,736 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:23,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:23,829 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:24,254 - INFO - Found 173 shot elements for orl-vs-mem-0022400092
+2025-06-30 21:19:24,260 - INFO - Added 173 shots to CSV
+2025-06-30 21:19:24,261 - INFO - Successfully processed orl-vs-mem-0022400092: 173 shots
+2025-06-30 21:19:24,319 - INFO - Processing game: phi-vs-ind-0022400097
+2025-06-30 21:19:24,320 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:24,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:24,494 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:24,529 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:25,013 - INFO - Found 173 shot elements for dal-vs-phx-0022400095
+2025-06-30 21:19:25,020 - INFO - Added 173 shots to CSV
+2025-06-30 21:19:25,020 - INFO - Successfully processed dal-vs-phx-0022400095: 173 shots
+2025-06-30 21:19:25,077 - INFO - Processing game: nop-vs-por-0022400099
+2025-06-30 21:19:25,078 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:25,190 - INFO - Found 171 shot elements for hou-vs-sas-0022400094
+2025-06-30 21:19:25,196 - INFO - Added 171 shots to CSV
+2025-06-30 21:19:25,196 - INFO - Successfully processed hou-vs-sas-0022400094: 171 shots
+2025-06-30 21:19:25,241 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:25,254 - INFO - Processing game: mil-vs-bkn-0022400098
+2025-06-30 21:19:25,254 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:25,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:25,318 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:25,352 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:25,389 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:25,425 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:27,849 - INFO - Found 180 shot elements for sac-vs-lal-0022400096
+2025-06-30 21:19:27,858 - INFO - Added 180 shots to CSV
+2025-06-30 21:19:27,858 - INFO - Successfully processed sac-vs-lal-0022400096: 180 shots
+2025-06-30 21:19:27,919 - INFO - Processing game: atl-vs-okc-0022400100
+2025-06-30 21:19:27,919 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:28,045 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:28,106 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:28,147 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:29,049 - INFO - Found 182 shot elements for phi-vs-ind-0022400097
+2025-06-30 21:19:29,056 - INFO - Added 167 shots to CSV
+2025-06-30 21:19:29,056 - INFO - Successfully processed phi-vs-ind-0022400097: 167 shots
+2025-06-30 21:19:29,112 - INFO - Processing game: lac-vs-gsw-0022400101
+2025-06-30 21:19:29,112 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:29,213 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:29,259 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:29,296 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:29,382 - INFO - Found 165 shot elements for mil-vs-bkn-0022400098
+2025-06-30 21:19:29,389 - INFO - Added 165 shots to CSV
+2025-06-30 21:19:29,389 - INFO - Successfully processed mil-vs-bkn-0022400098: 165 shots
+2025-06-30 21:19:29,449 - INFO - Processing game: ind-vs-orl-0022400102
+2025-06-30 21:19:29,449 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:29,530 - INFO - Found 181 shot elements for nop-vs-por-0022400099
+2025-06-30 21:19:29,539 - INFO - Added 181 shots to CSV
+2025-06-30 21:19:29,539 - INFO - Successfully processed nop-vs-por-0022400099: 181 shots
+2025-06-30 21:19:29,595 - INFO - Processing game: den-vs-tor-0022400107
+2025-06-30 21:19:29,595 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:29,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:29,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:29,695 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:29,731 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:29,744 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:29,770 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:31,698 - INFO - Found 180 shot elements for atl-vs-okc-0022400100
+2025-06-30 21:19:31,705 - INFO - Added 180 shots to CSV
+2025-06-30 21:19:31,705 - INFO - Successfully processed atl-vs-okc-0022400100: 180 shots
+2025-06-30 21:19:31,766 - INFO - Processing game: cle-vs-nyk-0022400106
+2025-06-30 21:19:31,766 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:31,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:31,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:32,006 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:33,571 - INFO - Found 178 shot elements for lac-vs-gsw-0022400101
+2025-06-30 21:19:33,580 - INFO - Added 178 shots to CSV
+2025-06-30 21:19:33,580 - INFO - Successfully processed lac-vs-gsw-0022400101: 178 shots
+2025-06-30 21:19:33,639 - INFO - Processing game: det-vs-mia-0022400105
+2025-06-30 21:19:33,640 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:33,734 - INFO - Found 205 shot elements for den-vs-tor-0022400107
+2025-06-30 21:19:33,741 - INFO - Added 182 shots to CSV
+2025-06-30 21:19:33,741 - INFO - Successfully processed den-vs-tor-0022400107: 182 shots
+2025-06-30 21:19:33,798 - INFO - Processing game: mil-vs-bos-0022400104
+2025-06-30 21:19:33,798 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:33,837 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:33,896 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:34,007 - INFO - Found 171 shot elements for ind-vs-orl-0022400102
+2025-06-30 21:19:34,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:34,017 - INFO - Added 171 shots to CSV
+2025-06-30 21:19:34,017 - INFO - Successfully processed ind-vs-orl-0022400102: 171 shots
+2025-06-30 21:19:34,019 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:34,076 - INFO - Processing game: was-vs-atl-0022400103
+2025-06-30 21:19:34,076 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:34,082 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:34,082 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:34,190 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:34,253 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:34,315 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:35,697 - INFO - Found 172 shot elements for cle-vs-nyk-0022400106
+2025-06-30 21:19:35,705 - INFO - Added 172 shots to CSV
+2025-06-30 21:19:35,705 - INFO - Successfully processed cle-vs-nyk-0022400106: 172 shots
+2025-06-30 21:19:35,765 - INFO - Processing game: hou-vs-sas-0022400109
+2025-06-30 21:19:35,765 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:35,890 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:36,011 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:36,155 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:37,926 - INFO - Found 179 shot elements for det-vs-mia-0022400105
+2025-06-30 21:19:37,982 - INFO - Found 172 shot elements for was-vs-atl-0022400103
+2025-06-30 21:19:37,987 - INFO - Added 179 shots to CSV
+2025-06-30 21:19:37,987 - INFO - Successfully processed det-vs-mia-0022400105: 179 shots
+2025-06-30 21:19:37,989 - INFO - Added 172 shots to CSV
+2025-06-30 21:19:37,989 - INFO - Successfully processed was-vs-atl-0022400103: 172 shots
+2025-06-30 21:19:38,047 - INFO - Processing game: chi-vs-mem-0022400108
+2025-06-30 21:19:38,047 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:38,050 - INFO - Processing game: uta-vs-dal-0022400110
+2025-06-30 21:19:38,050 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:38,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:38,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:38,186 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:38,187 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:38,228 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:38,231 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:38,385 - INFO - Found 169 shot elements for mil-vs-bos-0022400104
+2025-06-30 21:19:38,395 - INFO - Added 169 shots to CSV
+2025-06-30 21:19:38,395 - INFO - Successfully processed mil-vs-bos-0022400104: 169 shots
+2025-06-30 21:19:38,455 - INFO - Processing game: por-vs-sac-0022400112
+2025-06-30 21:19:38,456 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:38,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:38,628 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:38,676 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:40,421 - INFO - Found 172 shot elements for hou-vs-sas-0022400109
+2025-06-30 21:19:40,427 - INFO - Added 172 shots to CSV
+2025-06-30 21:19:40,427 - INFO - Successfully processed hou-vs-sas-0022400109: 172 shots
+2025-06-30 21:19:40,484 - INFO - Processing game: lal-vs-phx-0022400111
+2025-06-30 21:19:40,484 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:40,578 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:40,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:40,657 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:43,708 - INFO - Found 187 shot elements for uta-vs-dal-0022400110
+2025-06-30 21:19:43,716 - INFO - Added 187 shots to CSV
+2025-06-30 21:19:43,716 - INFO - Successfully processed uta-vs-dal-0022400110: 187 shots
+2025-06-30 21:19:43,773 - INFO - Processing game: dal-vs-min-0022400114
+2025-06-30 21:19:43,773 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:43,895 - INFO - Found 211 shot elements for chi-vs-mem-0022400108
+2025-06-30 21:19:43,903 - INFO - Added 211 shots to CSV
+2025-06-30 21:19:43,903 - INFO - Successfully processed chi-vs-mem-0022400108: 211 shots
+2025-06-30 21:19:43,953 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:43,960 - INFO - Processing game: den-vs-bkn-0022400113
+2025-06-30 21:19:43,961 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:43,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:44,046 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:44,070 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:44,122 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:44,160 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:45,042 - INFO - Found 164 shot elements for por-vs-sac-0022400112
+2025-06-30 21:19:45,050 - INFO - Added 164 shots to CSV
+2025-06-30 21:19:45,050 - INFO - Successfully processed por-vs-sac-0022400112: 164 shots
+2025-06-30 21:19:45,110 - INFO - Processing game: sac-vs-uta-0022400115
+2025-06-30 21:19:45,110 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:45,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:45,282 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:45,318 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:46,309 - INFO - Found 181 shot elements for lal-vs-phx-0022400111
+2025-06-30 21:19:46,316 - INFO - Added 181 shots to CSV
+2025-06-30 21:19:46,316 - INFO - Successfully processed lal-vs-phx-0022400111: 181 shots
+2025-06-30 21:19:46,375 - INFO - Processing game: nop-vs-gsw-0022400116
+2025-06-30 21:19:46,375 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:46,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:46,511 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:46,547 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:49,550 - INFO - Found 170 shot elements for dal-vs-min-0022400114
+2025-06-30 21:19:49,571 - INFO - Found 185 shot elements for den-vs-bkn-0022400113
+2025-06-30 21:19:49,577 - INFO - Added 170 shots to CSV
+2025-06-30 21:19:49,577 - INFO - Successfully processed dal-vs-min-0022400114: 170 shots
+2025-06-30 21:19:49,580 - INFO - Added 165 shots to CSV
+2025-06-30 21:19:49,580 - INFO - Successfully processed den-vs-bkn-0022400113: 165 shots
+2025-06-30 21:19:49,637 - INFO - Processing game: atl-vs-was-0022400121
+2025-06-30 21:19:49,638 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:49,640 - INFO - Processing game: det-vs-phi-0022400120
+2025-06-30 21:19:49,641 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:49,742 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:49,744 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:49,780 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:49,794 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:49,823 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:49,834 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:52,270 - INFO - Found 171 shot elements for nop-vs-gsw-0022400116
+2025-06-30 21:19:52,276 - INFO - Added 171 shots to CSV
+2025-06-30 21:19:52,276 - INFO - Successfully processed nop-vs-gsw-0022400116: 171 shots
+2025-06-30 21:19:52,336 - INFO - Processing game: bos-vs-ind-0022400119
+2025-06-30 21:19:52,336 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:52,433 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:52,478 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:52,521 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:52,941 - INFO - Found 181 shot elements for sac-vs-uta-0022400115
+2025-06-30 21:19:52,950 - INFO - Added 181 shots to CSV
+2025-06-30 21:19:52,950 - INFO - Successfully processed sac-vs-uta-0022400115: 181 shots
+2025-06-30 21:19:53,008 - INFO - Processing game: lal-vs-cle-0022400118
+2025-06-30 21:19:53,008 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:53,111 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:53,155 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:53,193 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:54,838 - INFO - Found 157 shot elements for det-vs-phi-0022400120
+2025-06-30 21:19:54,891 - INFO - Added 157 shots to CSV
+2025-06-30 21:19:54,896 - INFO - Successfully processed det-vs-phi-0022400120: 157 shots
+2025-06-30 21:19:54,922 - INFO - Found 184 shot elements for atl-vs-was-0022400121
+2025-06-30 21:19:54,930 - INFO - Added 184 shots to CSV
+2025-06-30 21:19:54,930 - INFO - Successfully processed atl-vs-was-0022400121: 184 shots
+2025-06-30 21:19:54,958 - INFO - Processing game: tor-vs-cha-0022400117
+2025-06-30 21:19:54,959 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:54,990 - INFO - Processing game: nyk-vs-mia-0022400122
+2025-06-30 21:19:54,990 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:55,063 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:55,096 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:55,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:55,140 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:55,165 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:55,187 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:56,872 - INFO - Found 213 shot elements for bos-vs-ind-0022400119
+2025-06-30 21:19:56,882 - INFO - Added 194 shots to CSV
+2025-06-30 21:19:56,882 - INFO - Successfully processed bos-vs-ind-0022400119: 194 shots
+2025-06-30 21:19:56,939 - INFO - Processing game: bkn-vs-mem-0022400124
+2025-06-30 21:19:56,939 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:57,045 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:57,098 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:57,138 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:57,363 - INFO - Found 174 shot elements for lal-vs-cle-0022400118
+2025-06-30 21:19:57,373 - INFO - Added 174 shots to CSV
+2025-06-30 21:19:57,373 - INFO - Successfully processed lal-vs-cle-0022400118: 174 shots
+2025-06-30 21:19:57,433 - INFO - Processing game: orl-vs-chi-0022400123
+2025-06-30 21:19:57,433 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:57,544 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:57,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:57,637 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:19:58,957 - INFO - Found 185 shot elements for tor-vs-cha-0022400117
+2025-06-30 21:19:58,965 - INFO - Added 185 shots to CSV
+2025-06-30 21:19:58,966 - INFO - Successfully processed tor-vs-cha-0022400117: 185 shots
+2025-06-30 21:19:59,027 - INFO - Processing game: sas-vs-okc-0022400125
+2025-06-30 21:19:59,027 - INFO - ====== WebDriver manager ======
+2025-06-30 21:19:59,129 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:59,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:19:59,205 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:01,259 - INFO - Found 161 shot elements for bkn-vs-mem-0022400124
+2025-06-30 21:20:01,265 - INFO - Added 161 shots to CSV
+2025-06-30 21:20:01,265 - INFO - Successfully processed bkn-vs-mem-0022400124: 161 shots
+2025-06-30 21:20:01,324 - INFO - Processing game: nop-vs-gsw-0022400126
+2025-06-30 21:20:01,324 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:01,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:01,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:01,569 - INFO - Found 170 shot elements for orl-vs-chi-0022400123
+2025-06-30 21:20:01,576 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:01,577 - INFO - Added 170 shots to CSV
+2025-06-30 21:20:01,577 - INFO - Successfully processed orl-vs-chi-0022400123: 170 shots
+2025-06-30 21:20:01,636 - INFO - Processing game: por-vs-lac-0022400127
+2025-06-30 21:20:01,636 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:01,739 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:01,779 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:01,816 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:02,164 - INFO - Found 163 shot elements for nyk-vs-mia-0022400122
+2025-06-30 21:20:02,170 - INFO - Added 163 shots to CSV
+2025-06-30 21:20:02,170 - INFO - Successfully processed nyk-vs-mia-0022400122: 163 shots
+2025-06-30 21:20:02,226 - INFO - Processing game: mil-vs-mem-0022400128
+2025-06-30 21:20:02,227 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:02,322 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:02,368 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:02,405 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:08,787 - INFO - Found 174 shot elements for sas-vs-okc-0022400125
+2025-06-30 21:20:08,794 - INFO - Added 174 shots to CSV
+2025-06-30 21:20:08,794 - INFO - Successfully processed sas-vs-okc-0022400125: 174 shots
+2025-06-30 21:20:08,913 - INFO - Processing game: hou-vs-dal-0022400129
+2025-06-30 21:20:08,919 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:08,932 - INFO - Found 177 shot elements for nop-vs-gsw-0022400126
+2025-06-30 21:20:08,942 - INFO - Added 177 shots to CSV
+2025-06-30 21:20:08,942 - INFO - Successfully processed nop-vs-gsw-0022400126: 177 shots
+2025-06-30 21:20:09,002 - INFO - Processing game: sas-vs-uta-0022400130
+2025-06-30 21:20:09,002 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:09,054 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:09,103 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:09,110 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:09,212 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:09,251 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:09,300 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:10,431 - INFO - Found 178 shot elements for mil-vs-mem-0022400128
+2025-06-30 21:20:10,496 - INFO - Added 178 shots to CSV
+2025-06-30 21:20:10,497 - INFO - Found 182 shot elements for por-vs-lac-0022400127
+2025-06-30 21:20:10,497 - INFO - Successfully processed mil-vs-mem-0022400128: 178 shots
+2025-06-30 21:20:10,504 - INFO - Added 182 shots to CSV
+2025-06-30 21:20:10,504 - INFO - Successfully processed por-vs-lac-0022400127: 182 shots
+2025-06-30 21:20:10,561 - INFO - Processing game: phx-vs-lac-0022400131
+2025-06-30 21:20:10,561 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:10,561 - INFO - Processing game: nyk-vs-det-0022400134
+2025-06-30 21:20:10,562 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:10,655 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:10,656 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:10,697 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:10,700 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:10,735 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:10,744 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:14,216 - INFO - Found 174 shot elements for sas-vs-uta-0022400130
+2025-06-30 21:20:14,223 - INFO - Added 174 shots to CSV
+2025-06-30 21:20:14,224 - INFO - Successfully processed sas-vs-uta-0022400130: 174 shots
+2025-06-30 21:20:14,280 - INFO - Processing game: orl-vs-cle-0022400133
+2025-06-30 21:20:14,280 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:14,386 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:14,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:14,472 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:15,128 - INFO - Found 182 shot elements for hou-vs-dal-0022400129
+2025-06-30 21:20:15,136 - INFO - Added 182 shots to CSV
+2025-06-30 21:20:15,136 - INFO - Successfully processed hou-vs-dal-0022400129: 182 shots
+2025-06-30 21:20:15,195 - INFO - Processing game: bos-vs-cha-0022400132
+2025-06-30 21:20:15,195 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:15,320 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:15,369 - INFO - Found 182 shot elements for nyk-vs-det-0022400134
+2025-06-30 21:20:15,376 - INFO - Added 182 shots to CSV
+2025-06-30 21:20:15,376 - INFO - Successfully processed nyk-vs-det-0022400134: 182 shots
+2025-06-30 21:20:15,434 - INFO - Processing game: lal-vs-tor-0022400137
+2025-06-30 21:20:15,434 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:15,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:15,537 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:15,540 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:15,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:15,649 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:16,623 - INFO - Found 175 shot elements for phx-vs-lac-0022400131
+2025-06-30 21:20:16,630 - INFO - Added 175 shots to CSV
+2025-06-30 21:20:16,630 - INFO - Successfully processed phx-vs-lac-0022400131: 175 shots
+2025-06-30 21:20:16,689 - INFO - Processing game: chi-vs-bkn-0022400136
+2025-06-30 21:20:16,689 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:16,788 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:16,824 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:16,866 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:20,291 - INFO - Found 177 shot elements for orl-vs-cle-0022400133
+2025-06-30 21:20:20,361 - INFO - Added 177 shots to CSV
+2025-06-30 21:20:20,366 - INFO - Successfully processed orl-vs-cle-0022400133: 177 shots
+2025-06-30 21:20:20,370 - INFO - Found 177 shot elements for bos-vs-cha-0022400132
+2025-06-30 21:20:20,378 - INFO - Added 177 shots to CSV
+2025-06-30 21:20:20,378 - INFO - Successfully processed bos-vs-cha-0022400132: 177 shots
+2025-06-30 21:20:20,473 - INFO - Found 195 shot elements for lal-vs-tor-0022400137
+2025-06-30 21:20:20,482 - INFO - Processing game: sac-vs-atl-0022400135
+2025-06-30 21:20:20,482 - INFO - Processing game: ind-vs-nop-0022400138
+2025-06-30 21:20:20,483 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:20,483 - INFO - Added 195 shots to CSV
+2025-06-30 21:20:20,483 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:20,483 - INFO - Successfully processed lal-vs-tor-0022400137: 195 shots
+2025-06-30 21:20:20,541 - INFO - Processing game: den-vs-min-0022400139
+2025-06-30 21:20:20,541 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:20,595 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:20,596 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:20,640 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:20,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:20,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:20,679 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:20,682 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:20,684 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:20,721 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:21,519 - INFO - Found 182 shot elements for chi-vs-bkn-0022400136
+2025-06-30 21:20:21,526 - INFO - Added 182 shots to CSV
+2025-06-30 21:20:21,526 - INFO - Successfully processed chi-vs-bkn-0022400136: 182 shots
+2025-06-30 21:20:21,586 - INFO - Processing game: okc-vs-por-0022400140
+2025-06-30 21:20:21,586 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:21,685 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:21,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:21,772 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:24,685 - INFO - Found 181 shot elements for sac-vs-atl-0022400135
+2025-06-30 21:20:24,692 - INFO - Added 181 shots to CSV
+2025-06-30 21:20:24,692 - INFO - Successfully processed sac-vs-atl-0022400135: 181 shots
+2025-06-30 21:20:24,752 - INFO - Processing game: bos-vs-cha-0022400141
+2025-06-30 21:20:24,752 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:24,867 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:24,975 - INFO - Found 190 shot elements for ind-vs-nop-0022400138
+2025-06-30 21:20:24,982 - INFO - Added 190 shots to CSV
+2025-06-30 21:20:24,982 - INFO - Successfully processed ind-vs-nop-0022400138: 190 shots
+2025-06-30 21:20:25,040 - INFO - Processing game: sac-vs-tor-0022400143
+2025-06-30 21:20:25,040 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:25,052 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:25,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:25,251 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:25,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:25,338 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:25,823 - INFO - Found 175 shot elements for den-vs-min-0022400139
+2025-06-30 21:20:25,831 - INFO - Added 175 shots to CSV
+2025-06-30 21:20:25,831 - INFO - Successfully processed den-vs-min-0022400139: 175 shots
+2025-06-30 21:20:25,888 - INFO - Processing game: mem-vs-phi-0022400142
+2025-06-30 21:20:25,888 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:25,988 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:26,049 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:26,098 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:26,841 - INFO - Found 178 shot elements for okc-vs-por-0022400140
+2025-06-30 21:20:26,848 - INFO - Added 178 shots to CSV
+2025-06-30 21:20:26,848 - INFO - Successfully processed okc-vs-por-0022400140: 178 shots
+2025-06-30 21:20:26,904 - INFO - Processing game: min-vs-sas-0022400146
+2025-06-30 21:20:26,905 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:27,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:27,039 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:27,082 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:30,048 - INFO - Found 173 shot elements for bos-vs-cha-0022400141
+2025-06-30 21:20:30,056 - INFO - Added 173 shots to CSV
+2025-06-30 21:20:30,056 - INFO - Successfully processed bos-vs-cha-0022400141: 173 shots
+2025-06-30 21:20:30,187 - INFO - Processing game: cle-vs-mil-0022400145
+2025-06-30 21:20:30,190 - INFO - Found 176 shot elements for mem-vs-phi-0022400142
+2025-06-30 21:20:30,190 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:30,200 - INFO - Added 176 shots to CSV
+2025-06-30 21:20:30,200 - INFO - Successfully processed mem-vs-phi-0022400142: 176 shots
+2025-06-30 21:20:30,288 - INFO - Found 195 shot elements for sac-vs-tor-0022400143
+2025-06-30 21:20:30,297 - INFO - Added 175 shots to CSV
+2025-06-30 21:20:30,297 - INFO - Successfully processed sac-vs-tor-0022400143: 175 shots
+2025-06-30 21:20:30,298 - INFO - Processing game: gsw-vs-hou-0022400144
+2025-06-30 21:20:30,298 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:30,355 - INFO - Processing game: mia-vs-was-0022400147
+2025-06-30 21:20:30,355 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:30,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:30,404 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:30,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:30,450 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:30,453 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:30,483 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:30,506 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:30,506 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:30,546 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:31,604 - INFO - Found 165 shot elements for min-vs-sas-0022400146
+2025-06-30 21:20:31,610 - INFO - Added 165 shots to CSV
+2025-06-30 21:20:31,610 - INFO - Successfully processed min-vs-sas-0022400146: 165 shots
+2025-06-30 21:20:31,669 - INFO - Processing game: por-vs-phx-0022400149
+2025-06-30 21:20:31,669 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:31,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:31,810 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:31,849 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:35,415 - INFO - Found 193 shot elements for mia-vs-was-0022400147
+2025-06-30 21:20:35,423 - INFO - Added 193 shots to CSV
+2025-06-30 21:20:35,423 - INFO - Successfully processed mia-vs-was-0022400147: 193 shots
+2025-06-30 21:20:35,481 - INFO - Processing game: uta-vs-den-0022400148
+2025-06-30 21:20:35,481 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:35,584 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:35,625 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:35,661 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:35,892 - INFO - Found 185 shot elements for gsw-vs-hou-0022400144
+2025-06-30 21:20:35,909 - INFO - Added 168 shots to CSV
+2025-06-30 21:20:35,909 - INFO - Successfully processed gsw-vs-hou-0022400144: 168 shots
+2025-06-30 21:20:35,978 - INFO - Found 180 shot elements for cle-vs-mil-0022400145
+2025-06-30 21:20:35,985 - INFO - Added 180 shots to CSV
+2025-06-30 21:20:35,985 - INFO - Successfully processed cle-vs-mil-0022400145: 180 shots
+2025-06-30 21:20:35,987 - INFO - Processing game: okc-vs-lac-0022400150
+2025-06-30 21:20:35,987 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:36,042 - INFO - Processing game: det-vs-bkn-0022400151
+2025-06-30 21:20:36,043 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:36,091 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:36,134 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:36,146 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:36,175 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:36,181 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:36,223 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:36,685 - INFO - Found 204 shot elements for por-vs-phx-0022400149
+2025-06-30 21:20:36,692 - INFO - Added 204 shots to CSV
+2025-06-30 21:20:36,692 - INFO - Successfully processed por-vs-phx-0022400149: 204 shots
+2025-06-30 21:20:36,751 - INFO - Processing game: atl-vs-nop-0022400152
+2025-06-30 21:20:36,751 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:36,849 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:36,888 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:36,929 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:40,233 - INFO - Found 176 shot elements for uta-vs-den-0022400148
+2025-06-30 21:20:40,242 - INFO - Added 176 shots to CSV
+2025-06-30 21:20:40,242 - INFO - Successfully processed uta-vs-den-0022400148: 176 shots
+2025-06-30 21:20:40,298 - INFO - Processing game: orl-vs-dal-0022400153
+2025-06-30 21:20:40,299 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:40,396 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:40,434 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:40,470 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:40,552 - INFO - Found 163 shot elements for okc-vs-lac-0022400150
+2025-06-30 21:20:40,558 - INFO - Added 163 shots to CSV
+2025-06-30 21:20:40,558 - INFO - Successfully processed okc-vs-lac-0022400150: 163 shots
+2025-06-30 21:20:40,615 - INFO - Processing game: mil-vs-cle-0022400154
+2025-06-30 21:20:40,615 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:40,727 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:40,763 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:40,799 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:41,384 - INFO - Found 178 shot elements for atl-vs-nop-0022400152
+2025-06-30 21:20:41,391 - INFO - Added 178 shots to CSV
+2025-06-30 21:20:41,392 - INFO - Successfully processed atl-vs-nop-0022400152: 178 shots
+2025-06-30 21:20:41,453 - INFO - Processing game: gsw-vs-was-0022400155
+2025-06-30 21:20:41,453 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:41,550 - INFO - Get LATEST chromedriver version for google-chromeimport re
+2025-06-30 21:20:41,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:41,640 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:44,271 - INFO - Found 148 shot elements for det-vs-bkn-0022400151
+2025-06-30 21:20:44,278 - INFO - Added 148 shots to CSV
+2025-06-30 21:20:44,278 - INFO - Successfully processed det-vs-bkn-0022400151: 148 shots
+2025-06-30 21:20:44,336 - INFO - Processing game: lal-vs-det-0022400156
+2025-06-30 21:20:44,337 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:44,439 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:44,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:44,533 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:46,456 - INFO - Found 177 shot elements for mil-vs-cle-0022400154
+2025-06-30 21:20:46,462 - INFO - Added 177 shots to CSV
+2025-06-30 21:20:46,462 - INFO - Successfully processed mil-vs-cle-0022400154: 177 shots
+2025-06-30 21:20:46,521 - INFO - Processing game: bos-vs-atl-0022400157
+2025-06-30 21:20:46,521 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:46,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:46,719 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:46,761 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:46,851 - INFO - Found 193 shot elements for gsw-vs-was-0022400155
+2025-06-30 21:20:46,859 - INFO - Added 193 shots to CSV
+2025-06-30 21:20:46,859 - INFO - Successfully processed gsw-vs-was-0022400155: 193 shots
+2025-06-30 21:20:46,919 - INFO - Processing game: mem-vs-bkn-0022400158
+2025-06-30 21:20:46,920 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:47,022 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:47,061 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:47,102 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:49,762 - INFO - Found 178 shot elements for orl-vs-dal-0022400153
+2025-06-30 21:20:49,770 - INFO - Added 178 shots to CSV
+2025-06-30 21:20:49,770 - INFO - Successfully processed orl-vs-dal-0022400153: 178 shots
+2025-06-30 21:20:49,826 - INFO - Processing game: sac-vs-mia-0022400159
+2025-06-30 21:20:49,826 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:49,929 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:49,964 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:50,073 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:50,465 - INFO - Found 181 shot elements for lal-vs-det-0022400156
+2025-06-30 21:20:50,472 - INFO - Added 181 shots to CSV
+2025-06-30 21:20:50,472 - INFO - Successfully processed lal-vs-det-0022400156: 181 shots
+2025-06-30 21:20:50,532 - INFO - Processing game: uta-vs-chi-0022400160
+2025-06-30 21:20:50,532 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:50,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:50,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:50,707 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:52,762 - INFO - Found 175 shot elements for mem-vs-bkn-0022400158
+2025-06-30 21:20:52,769 - INFO - Added 175 shots to CSV
+2025-06-30 21:20:52,769 - INFO - Successfully processed mem-vs-bkn-0022400158: 175 shots
+2025-06-30 21:20:52,828 - INFO - Processing game: nyk-vs-hou-0022400161
+2025-06-30 21:20:52,828 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:52,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:52,974 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:53,018 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:54,025 - INFO - Found 188 shot elements for bos-vs-atl-0022400157
+2025-06-30 21:20:54,032 - INFO - Added 188 shots to CSV
+2025-06-30 21:20:54,032 - INFO - Successfully processed bos-vs-atl-0022400157: 188 shots
+2025-06-30 21:20:54,089 - INFO - Processing game: cha-vs-min-0022400162
+2025-06-30 21:20:54,089 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:54,191 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:54,229 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:54,269 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:56,700 - INFO - Found 171 shot elements for sac-vs-mia-0022400159
+2025-06-30 21:20:56,707 - INFO - Added 171 shots to CSV
+2025-06-30 21:20:56,707 - INFO - Successfully processed sac-vs-mia-0022400159: 171 shots
+2025-06-30 21:20:56,765 - INFO - Processing game: orl-vs-okc-0022400163
+2025-06-30 21:20:56,765 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:56,866 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:56,911 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:56,946 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:57,212 - INFO - Found 184 shot elements for uta-vs-chi-0022400160
+2025-06-30 21:20:57,222 - INFO - Added 184 shots to CSV
+2025-06-30 21:20:57,222 - INFO - Successfully processed uta-vs-chi-0022400160: 184 shots
+2025-06-30 21:20:57,279 - INFO - Processing game: por-vs-nop-0022400164
+2025-06-30 21:20:57,279 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:57,376 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:57,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:57,473 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:57,964 - INFO - Found 176 shot elements for nyk-vs-hou-0022400161
+2025-06-30 21:20:57,971 - INFO - Added 176 shots to CSV
+2025-06-30 21:20:57,971 - INFO - Successfully processed nyk-vs-hou-0022400161: 176 shots
+2025-06-30 21:20:58,031 - INFO - Processing game: ind-vs-dal-0022400165
+2025-06-30 21:20:58,031 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:58,138 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:58,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:58,230 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:20:59,541 - INFO - Found 167 shot elements for cha-vs-min-0022400162
+2025-06-30 21:20:59,549 - INFO - Added 167 shots to CSV
+2025-06-30 21:20:59,549 - INFO - Successfully processed cha-vs-min-0022400162: 167 shots
+2025-06-30 21:20:59,606 - INFO - Processing game: tor-vs-den-0022400166
+2025-06-30 21:20:59,607 - INFO - ====== WebDriver manager ======
+2025-06-30 21:20:59,713 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:59,754 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:20:59,792 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:00,795 - INFO - Found 167 shot elements for orl-vs-okc-0022400163
+2025-06-30 21:21:00,803 - INFO - Added 167 shots to CSV
+2025-06-30 21:21:00,803 - INFO - Successfully processed orl-vs-okc-0022400163: 167 shots
+2025-06-30 21:21:00,862 - INFO - Processing game: phi-vs-phx-0022400167
+2025-06-30 21:21:00,862 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:00,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:01,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:01,057 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:01,427 - INFO - Found 168 shot elements for por-vs-nop-0022400164
+2025-06-30 21:21:01,434 - INFO - Added 168 shots to CSV
+2025-06-30 21:21:01,434 - INFO - Successfully processed por-vs-nop-0022400164: 168 shots
+2025-06-30 21:21:01,491 - INFO - Processing game: sas-vs-lac-0022400168
+2025-06-30 21:21:01,491 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:01,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:01,633 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:01,702 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:02,392 - INFO - Found 184 shot elements for ind-vs-dal-0022400165
+2025-06-30 21:21:02,400 - INFO - Added 184 shots to CSV
+2025-06-30 21:21:02,400 - INFO - Successfully processed ind-vs-dal-0022400165: 184 shots
+2025-06-30 21:21:02,458 - INFO - Processing game: orl-vs-ind-0022400170
+2025-06-30 21:21:02,459 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:02,561 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:02,601 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:02,651 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:04,418 - INFO - Found 186 shot elements for tor-vs-den-0022400166
+2025-06-30 21:21:04,427 - INFO - Added 186 shots to CSV
+2025-06-30 21:21:04,427 - INFO - Successfully processed tor-vs-den-0022400166: 186 shots
+2025-06-30 21:21:04,485 - INFO - Processing game: det-vs-cha-0022400169
+2025-06-30 21:21:04,485 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:04,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:04,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:04,685 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:06,212 - INFO - Found 169 shot elements for phi-vs-phx-0022400167
+2025-06-30 21:21:06,219 - INFO - Added 169 shots to CSV
+2025-06-30 21:21:06,219 - INFO - Successfully processed phi-vs-phx-0022400167: 169 shots
+2025-06-30 21:21:06,279 - INFO - Processing game: gsw-vs-bos-0022400172
+2025-06-30 21:21:06,280 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:06,426 - INFO - Found 176 shot elements for sas-vs-lac-0022400168
+2025-06-30 21:21:06,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:06,434 - INFO - Added 176 shots to CSV
+2025-06-30 21:21:06,435 - INFO - Successfully processed sas-vs-lac-0022400168: 176 shots
+2025-06-30 21:21:06,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:06,492 - INFO - Processing game: nyk-vs-atl-0022400171
+2025-06-30 21:21:06,492 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:06,508 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:06,595 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:06,638 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:06,675 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:07,437 - INFO - Found 158 shot elements for orl-vs-ind-0022400170
+2025-06-30 21:21:07,443 - INFO - Added 158 shots to CSV
+2025-06-30 21:21:07,443 - INFO - Successfully processed orl-vs-ind-0022400170: 158 shots
+2025-06-30 21:21:07,501 - INFO - Processing game: cle-vs-nop-0022400175
+2025-06-30 21:21:07,502 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:07,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:07,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:07,691 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:10,488 - INFO - Found 184 shot elements for det-vs-cha-0022400169
+2025-06-30 21:21:10,497 - INFO - Added 184 shots to CSV
+2025-06-30 21:21:10,497 - INFO - Successfully processed det-vs-cha-0022400169: 184 shots
+2025-06-30 21:21:10,557 - INFO - Processing game: lal-vs-mem-0022400174
+2025-06-30 21:21:10,557 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:10,682 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:10,740 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:10,793 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:11,238 - INFO - Found 184 shot elements for nyk-vs-atl-0022400171
+2025-06-30 21:21:11,245 - INFO - Added 184 shots to CSV
+2025-06-30 21:21:11,245 - INFO - Successfully processed nyk-vs-atl-0022400171: 184 shots
+2025-06-30 21:21:11,303 - INFO - Processing game: sas-vs-hou-0022400173
+2025-06-30 21:21:11,304 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:11,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:11,466 - INFO - Found 181 shot elements for gsw-vs-bos-0022400172
+2025-06-30 21:21:11,473 - INFO - Added 181 shots to CSV
+2025-06-30 21:21:11,473 - INFO - Successfully processed gsw-vs-bos-0022400172: 181 shots
+2025-06-30 21:21:11,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:11,531 - INFO - Processing game: chi-vs-dal-0022400176
+2025-06-30 21:21:11,531 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:11,531 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:11,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:11,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:11,712 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:12,344 - INFO - Found 184 shot elements for cle-vs-nop-0022400175
+2025-06-30 21:21:12,351 - INFO - Added 184 shots to CSV
+2025-06-30 21:21:12,351 - INFO - Successfully processed cle-vs-nop-0022400175: 184 shots
+2025-06-30 21:21:12,410 - INFO - Processing game: mia-vs-phx-0022400178
+2025-06-30 21:21:12,410 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:12,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:12,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:12,621 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:14,620 - INFO - Found 186 shot elements for lal-vs-mem-0022400174
+2025-06-30 21:21:14,630 - INFO - Added 186 shots to CSV
+2025-06-30 21:21:14,630 - INFO - Successfully processed lal-vs-mem-0022400174: 186 shots
+2025-06-30 21:21:14,690 - INFO - Processing game: okc-vs-den-0022400177
+2025-06-30 21:21:14,691 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:14,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:14,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:14,923 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:15,517 - INFO - Found 179 shot elements for sas-vs-hou-0022400173
+2025-06-30 21:21:15,525 - INFO - Added 179 shots to CSV
+2025-06-30 21:21:15,525 - INFO - Successfully processed sas-vs-hou-0022400173: 179 shots
+2025-06-30 21:21:15,582 - INFO - Processing game: tor-vs-sac-0022400180
+2025-06-30 21:21:15,582 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:15,698 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:15,755 - INFO - Found 179 shot elements for chi-vs-dal-0022400176
+2025-06-30 21:21:15,762 - INFO - Added 179 shots to CSV
+2025-06-30 21:21:15,762 - INFO - Successfully processed chi-vs-dal-0022400176: 179 shots
+2025-06-30 21:21:15,768 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:15,810 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:15,819 - INFO - Processing game: phi-vs-lac-0022400179
+2025-06-30 21:21:15,819 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:15,929 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:15,981 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:16,021 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:16,826 - INFO - Found 176 shot elements for mia-vs-phx-0022400178
+2025-06-30 21:21:16,832 - INFO - Added 176 shots to CSV
+2025-06-30 21:21:16,833 - INFO - Successfully processed mia-vs-phx-0022400178: 176 shots
+2025-06-30 21:21:16,892 - INFO - Processing game: por-vs-sas-0022400183
+2025-06-30 21:21:16,892 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:16,998 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:17,044 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:17,087 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:18,711 - INFO - Found 189 shot elements for okc-vs-den-0022400177
+2025-06-30 21:21:18,721 - INFO - Added 189 shots to CSV
+2025-06-30 21:21:18,722 - INFO - Successfully processed okc-vs-den-0022400177: 189 shots
+2025-06-30 21:21:18,780 - INFO - Processing game: uta-vs-mil-0022400182
+2025-06-30 21:21:18,780 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:18,897 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:18,934 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:18,970 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:19,564 - INFO - Found 145 shot elements for phi-vs-lac-0022400179
+2025-06-30 21:21:19,570 - INFO - Added 145 shots to CSV
+2025-06-30 21:21:19,570 - INFO - Successfully processed phi-vs-lac-0022400179: 145 shots
+2025-06-30 21:21:19,627 - INFO - Processing game: min-vs-chi-0022400181
+2025-06-30 21:21:19,628 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:19,744 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:19,790 - INFO - Found 178 shot elements for tor-vs-sac-0022400180
+2025-06-30 21:21:19,798 - INFO - Added 178 shots to CSV
+2025-06-30 21:21:19,798 - INFO - Successfully processed tor-vs-sac-0022400180: 178 shots
+2025-06-30 21:21:19,814 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:19,855 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:19,859 - INFO - Processing game: nop-vs-orl-0022400186
+2025-06-30 21:21:19,859 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:19,967 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:20,004 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:20,045 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:20,793 - INFO - Found 168 shot elements for por-vs-sas-0022400183
+2025-06-30 21:21:20,800 - INFO - Added 168 shots to CSV
+2025-06-30 21:21:20,800 - INFO - Successfully processed por-vs-sas-0022400183: 168 shots
+2025-06-30 21:21:20,860 - INFO - Processing game: atl-vs-det-0022400185
+2025-06-30 21:21:20,861 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:20,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:20,999 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:21,037 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:23,449 - INFO - Found 161 shot elements for uta-vs-mil-0022400182
+2025-06-30 21:21:23,458 - INFO - Added 161 shots to CSV
+2025-06-30 21:21:23,458 - INFO - Successfully processed uta-vs-mil-0022400182: 161 shots
+2025-06-30 21:21:23,515 - INFO - Processing game: ind-vs-cha-0022400184
+2025-06-30 21:21:23,515 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:23,626 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:23,665 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:23,714 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:24,053 - INFO - Found 181 shot elements for min-vs-chi-0022400181
+2025-06-30 21:21:24,060 - INFO - Added 181 shots to CSV
+2025-06-30 21:21:24,060 - INFO - Successfully processed min-vs-chi-0022400181: 181 shots
+2025-06-30 21:21:24,118 - INFO - Processing game: phx-vs-dal-0022400190
+2025-06-30 21:21:24,118 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:24,221 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:24,266 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:24,304 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:24,389 - INFO - Found 170 shot elements for nop-vs-orl-0022400186
+2025-06-30 21:21:24,396 - INFO - Added 170 shots to CSV
+2025-06-30 21:21:24,396 - INFO - Successfully processed nop-vs-orl-0022400186: 170 shots
+2025-06-30 21:21:24,456 - INFO - Processing game: mil-vs-nyk-0022400189
+2025-06-30 21:21:24,457 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:24,571 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:24,608 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:24,651 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:25,333 - INFO - Found 183 shot elements for atl-vs-det-0022400185
+2025-06-30 21:21:25,342 - INFO - Added 183 shots to CSV
+2025-06-30 21:21:25,342 - INFO - Successfully processed atl-vs-det-0022400185: 183 shots
+2025-06-30 21:21:25,402 - INFO - Processing game: gsw-vs-cle-0022400188
+2025-06-30 21:21:25,403 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:25,511 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:25,556 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:25,619 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:27,258 - INFO - Found 173 shot elements for ind-vs-cha-0022400184
+2025-06-30 21:21:27,266 - INFO - Added 173 shots to CSV
+2025-06-30 21:21:27,266 - INFO - Successfully processed ind-vs-cha-0022400184: 173 shots
+2025-06-30 21:21:27,324 - INFO - Processing game: bkn-vs-bos-0022400187
+2025-06-30 21:21:27,325 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:27,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:27,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:27,535 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:27,679 - INFO - Found 166 shot elements for phx-vs-dal-0022400190
+2025-06-30 21:21:27,687 - INFO - Added 166 shots to CSV
+2025-06-30 21:21:27,687 - INFO - Successfully processed phx-vs-dal-0022400190: 166 shots
+2025-06-30 21:21:27,746 - INFO - Processing game: hou-vs-okc-0022400192
+2025-06-30 21:21:27,746 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:27,887 - INFO - Found 174 shot elements for mil-vs-nyk-0022400189
+2025-06-30 21:21:27,897 - INFO - Added 174 shots to CSV
+2025-06-30 21:21:27,897 - INFO - Successfully processed mil-vs-nyk-0022400189: 174 shots
+2025-06-30 21:21:27,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:27,957 - INFO - Processing game: was-vs-mem-0022400191
+2025-06-30 21:21:27,958 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:27,990 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:28,037 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:28,072 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:28,113 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:28,153 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:29,498 - INFO - Found 183 shot elements for gsw-vs-cle-0022400188
+2025-06-30 21:21:29,505 - INFO - Added 183 shots to CSV
+2025-06-30 21:21:29,505 - INFO - Successfully processed gsw-vs-cle-0022400188: 183 shots
+2025-06-30 21:21:29,562 - INFO - Processing game: mia-vs-den-0022400194
+2025-06-30 21:21:29,562 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:29,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:29,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:29,798 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:31,385 - INFO - Found 190 shot elements for bkn-vs-bos-0022400187
+2025-06-30 21:21:31,392 - INFO - Added 176 shots to CSV
+2025-06-30 21:21:31,392 - INFO - Successfully processed bkn-vs-bos-0022400187: 176 shots
+2025-06-30 21:21:31,453 - INFO - Processing game: por-vs-min-0022400193
+2025-06-30 21:21:31,453 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:31,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:31,603 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:31,641 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:31,766 - INFO - Found 190 shot elements for was-vs-mem-0022400191
+2025-06-30 21:21:31,774 - INFO - Added 190 shots to CSV
+2025-06-30 21:21:31,774 - INFO - Successfully processed was-vs-mem-0022400191: 190 shots
+2025-06-30 21:21:31,835 - INFO - Processing game: lac-vs-sac-0022400196
+2025-06-30 21:21:31,835 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:31,959 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:32,008 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:32,107 - INFO - Found 180 shot elements for hou-vs-okc-0022400192
+2025-06-30 21:21:32,191 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:32,193 - INFO - Added 180 shots to CSV
+2025-06-30 21:21:32,193 - INFO - Successfully processed hou-vs-okc-0022400192: 180 shots
+2025-06-30 21:21:32,254 - INFO - Processing game: phi-vs-lal-0022400195
+2025-06-30 21:21:32,254 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:32,369 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:32,411 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:32,454 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:33,311 - INFO - Found 175 shot elements for mia-vs-den-0022400194
+2025-06-30 21:21:33,319 - INFO - Added 175 shots to CSV
+2025-06-30 21:21:33,319 - INFO - Successfully processed mia-vs-den-0022400194: 175 shots
+2025-06-30 21:21:33,378 - INFO - Processing game: uta-vs-sas-0022400197
+2025-06-30 21:21:33,379 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:33,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:33,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:33,568 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:34,865 - INFO - Found 188 shot elements for por-vs-min-0022400193
+2025-06-30 21:21:34,873 - INFO - Added 188 shots to CSV
+2025-06-30 21:21:34,873 - INFO - Successfully processed por-vs-min-0022400193: 188 shots
+2025-06-30 21:21:34,933 - INFO - Processing game: bkn-vs-cle-0022400199
+2025-06-30 21:21:34,933 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:35,047 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:35,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:35,191 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:35,528 - INFO - Found 181 shot elements for phi-vs-lal-0022400195
+2025-06-30 21:21:35,536 - INFO - Added 181 shots to CSV
+2025-06-30 21:21:35,536 - INFO - Successfully processed phi-vs-lal-0022400195: 181 shots
+2025-06-30 21:21:35,593 - INFO - Processing game: chi-vs-atl-0022400198
+2025-06-30 21:21:35,593 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:35,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:35,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:35,784 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:36,254 - INFO - Found 159 shot elements for lac-vs-sac-0022400196
+2025-06-30 21:21:36,260 - INFO - Added 159 shots to CSV
+2025-06-30 21:21:36,260 - INFO - Successfully processed lac-vs-sac-0022400196: 159 shots
+2025-06-30 21:21:36,319 - INFO - Processing game: tor-vs-lac-0022400200
+2025-06-30 21:21:36,319 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:36,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:36,456 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:36,498 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:37,209 - INFO - Found 167 shot elements for uta-vs-sas-0022400197
+2025-06-30 21:21:37,216 - INFO - Added 167 shots to CSV
+2025-06-30 21:21:37,216 - INFO - Successfully processed uta-vs-sas-0022400197: 167 shots
+2025-06-30 21:21:37,274 - INFO - Processing game: hou-vs-det-0022400201
+2025-06-30 21:21:37,274 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:37,375 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:37,415 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:37,450 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:38,622 - INFO - Found 150 shot elements for bkn-vs-cle-0022400199
+2025-06-30 21:21:38,627 - INFO - Added 150 shots to CSV
+2025-06-30 21:21:38,627 - INFO - Successfully processed bkn-vs-cle-0022400199: 150 shots
+2025-06-30 21:21:38,684 - INFO - Processing game: bos-vs-mil-0022400202
+2025-06-30 21:21:38,685 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:38,786 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:38,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:38,863 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:40,014 - INFO - Found 171 shot elements for tor-vs-lac-0022400200
+2025-06-30 21:21:40,022 - INFO - Added 171 shots to CSV
+2025-06-30 21:21:40,022 - INFO - Successfully processed tor-vs-lac-0022400200: 171 shots
+2025-06-30 21:21:40,078 - INFO - Processing game: nyk-vs-ind-0022400203
+2025-06-30 21:21:40,078 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:40,174 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:40,210 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:40,248 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:42,570 - INFO - Found 177 shot elements for hou-vs-det-0022400201
+2025-06-30 21:21:42,578 - INFO - Added 177 shots to CSV
+2025-06-30 21:21:42,578 - INFO - Successfully processed hou-vs-det-0022400201: 177 shots
+2025-06-30 21:21:42,640 - INFO - Processing game: was-vs-orl-0022400204
+2025-06-30 21:21:42,641 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:42,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:42,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:42,832 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:43,476 - INFO - Found 167 shot elements for bos-vs-mil-0022400202
+2025-06-30 21:21:43,483 - INFO - Added 167 shots to CSV
+2025-06-30 21:21:43,483 - INFO - Successfully processed bos-vs-mil-0022400202: 167 shots
+2025-06-30 21:21:43,543 - INFO - Processing game: gsw-vs-okc-0022400207
+2025-06-30 21:21:43,543 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:43,644 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:43,731 - INFO - Found 181 shot elements for chi-vs-atl-0022400198
+2025-06-30 21:21:43,742 - INFO - Added 181 shots to CSV
+2025-06-30 21:21:43,742 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:43,742 - INFO - Successfully processed chi-vs-atl-0022400198: 181 shots
+2025-06-30 21:21:43,782 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:43,801 - INFO - Processing game: mia-vs-min-0022400206
+2025-06-30 21:21:43,801 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:43,909 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:43,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:43,992 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:46,036 - INFO - Found 171 shot elements for nyk-vs-ind-0022400203
+2025-06-30 21:21:46,044 - INFO - Added 171 shots to CSV
+2025-06-30 21:21:46,045 - INFO - Successfully processed nyk-vs-ind-0022400203: 171 shots
+2025-06-30 21:21:46,103 - INFO - Processing game: cha-vs-phi-0022400205
+2025-06-30 21:21:46,103 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:46,208 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:46,267 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:46,305 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:47,969 - INFO - Found 163 shot elements for was-vs-orl-0022400204
+2025-06-30 21:21:47,976 - INFO - Added 163 shots to CSV
+2025-06-30 21:21:47,976 - INFO - Successfully processed was-vs-orl-0022400204: 163 shots
+2025-06-30 21:21:48,033 - INFO - Processing game: sac-vs-phx-0022400209
+2025-06-30 21:21:48,033 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:48,142 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:48,183 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:48,225 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:49,062 - INFO - Found 183 shot elements for gsw-vs-okc-0022400207
+2025-06-30 21:21:49,070 - INFO - Added 183 shots to CSV
+2025-06-30 21:21:49,070 - INFO - Successfully processed gsw-vs-okc-0022400207: 183 shots
+2025-06-30 21:21:49,128 - INFO - Processing game: dal-vs-den-0022400208
+2025-06-30 21:21:49,128 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:49,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:49,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:49,386 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:50,268 - INFO - Found 165 shot elements for mia-vs-min-0022400206
+2025-06-30 21:21:50,275 - INFO - Added 165 shots to CSV
+2025-06-30 21:21:50,275 - INFO - Successfully processed mia-vs-min-0022400206: 165 shots
+2025-06-30 21:21:50,335 - INFO - Processing game: mem-vs-por-0022400210
+2025-06-30 21:21:50,335 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:50,442 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:50,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:50,523 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:51,316 - INFO - Found 179 shot elements for cha-vs-phi-0022400205
+2025-06-30 21:21:51,323 - INFO - Added 164 shots to CSV
+2025-06-30 21:21:51,323 - INFO - Successfully processed cha-vs-phi-0022400205: 164 shots
+2025-06-30 21:21:51,382 - INFO - Processing game: tor-vs-lal-0022400211
+2025-06-30 21:21:51,382 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:51,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:51,524 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:51,570 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:53,628 - INFO - Found 179 shot elements for dal-vs-den-0022400208
+2025-06-30 21:21:53,640 - INFO - Added 179 shots to CSV
+2025-06-30 21:21:53,640 - INFO - Successfully processed dal-vs-den-0022400208: 179 shots
+2025-06-30 21:21:53,700 - INFO - Processing game: sac-vs-sas-0022400216
+2025-06-30 21:21:53,701 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:53,819 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:53,864 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:53,903 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:54,293 - INFO - Found 207 shot elements for sac-vs-phx-0022400209
+2025-06-30 21:21:54,302 - INFO - Added 190 shots to CSV
+2025-06-30 21:21:54,302 - INFO - Successfully processed sac-vs-phx-0022400209: 190 shots
+2025-06-30 21:21:54,360 - INFO - Processing game: lac-vs-okc-0022400215
+2025-06-30 21:21:54,361 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:54,466 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:54,507 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:54,550 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:55,126 - INFO - Found 185 shot elements for mem-vs-por-0022400210
+2025-06-30 21:21:55,135 - INFO - Added 185 shots to CSV
+2025-06-30 21:21:55,135 - INFO - Successfully processed mem-vs-por-0022400210: 185 shots
+2025-06-30 21:21:55,193 - INFO - Processing game: bkn-vs-nop-0022400214
+2025-06-30 21:21:55,193 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:55,303 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:55,350 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:55,392 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:55,600 - INFO - Found 168 shot elements for tor-vs-lal-0022400211
+2025-06-30 21:21:55,607 - INFO - Added 168 shots to CSV
+2025-06-30 21:21:55,607 - INFO - Successfully processed tor-vs-lal-0022400211: 168 shots
+2025-06-30 21:21:55,664 - INFO - Processing game: was-vs-hou-0022400213
+2025-06-30 21:21:55,664 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:55,767 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:55,807 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:55,846 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:58,152 - INFO - Found 176 shot elements for sac-vs-sas-0022400216
+2025-06-30 21:21:58,162 - INFO - Added 176 shots to CSV
+2025-06-30 21:21:58,162 - INFO - Successfully processed sac-vs-sas-0022400216: 176 shots
+2025-06-30 21:21:58,262 - INFO - Found 171 shot elements for lac-vs-okc-0022400215
+2025-06-30 21:21:58,271 - INFO - Added 171 shots to CSV
+2025-06-30 21:21:58,271 - INFO - Successfully processed lac-vs-okc-0022400215: 171 shots
+2025-06-30 21:21:58,271 - INFO - Processing game: cle-vs-chi-0022400212
+2025-06-30 21:21:58,271 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:58,330 - INFO - Processing game: cha-vs-orl-0022400003
+2025-06-30 21:21:58,331 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:58,387 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:58,441 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:58,467 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:58,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:58,556 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:58,584 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:21:59,669 - INFO - Found 175 shot elements for was-vs-hou-0022400213
+2025-06-30 21:21:59,676 - INFO - Added 175 shots to CSV
+2025-06-30 21:21:59,676 - INFO - Successfully processed was-vs-hou-0022400213: 175 shots
+2025-06-30 21:21:59,736 - INFO - Processing game: mia-vs-det-0022400002
+2025-06-30 21:21:59,737 - INFO - ====== WebDriver manager ======
+2025-06-30 21:21:59,854 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:59,893 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:21:59,935 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:00,781 - INFO - Found 178 shot elements for bkn-vs-nop-0022400214
+2025-06-30 21:22:00,788 - INFO - Added 178 shots to CSV
+2025-06-30 21:22:00,788 - INFO - Successfully processed bkn-vs-nop-0022400214: 178 shots
+2025-06-30 21:22:00,848 - INFO - Processing game: atl-vs-bos-0022400001
+2025-06-30 21:22:00,848 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:00,956 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:00,999 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:01,036 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:02,307 - INFO - Found 184 shot elements for cle-vs-chi-0022400212
+2025-06-30 21:22:02,315 - INFO - Added 184 shots to CSV
+2025-06-30 21:22:02,315 - INFO - Successfully processed cle-vs-chi-0022400212: 184 shots
+2025-06-30 21:22:02,375 - INFO - Processing game: nyk-vs-phi-0022400004
+2025-06-30 21:22:02,375 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:02,484 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:02,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:02,578 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:03,410 - INFO - Found 177 shot elements for cha-vs-orl-0022400003
+2025-06-30 21:22:03,420 - INFO - Added 177 shots to CSV
+2025-06-30 21:22:03,420 - INFO - Successfully processed cha-vs-orl-0022400003: 177 shots
+2025-06-30 21:22:03,481 - INFO - Processing game: tor-vs-mil-0022400005
+2025-06-30 21:22:03,481 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:03,584 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:03,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:03,662 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:05,387 - INFO - Found 193 shot elements for mia-vs-det-0022400002
+2025-06-30 21:22:05,394 - INFO - Added 178 shots to CSV
+2025-06-30 21:22:05,394 - INFO - Successfully processed mia-vs-det-0022400002: 178 shots
+2025-06-30 21:22:05,453 - INFO - Processing game: phx-vs-uta-0022400006
+2025-06-30 21:22:05,453 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:05,558 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:05,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:05,635 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:08,456 - INFO - Found 174 shot elements for atl-vs-bos-0022400001
+2025-06-30 21:22:08,464 - INFO - Added 174 shots to CSV
+2025-06-30 21:22:08,464 - INFO - Successfully processed atl-vs-bos-0022400001: 174 shots
+2025-06-30 21:22:08,573 - INFO - Found 172 shot elements for nyk-vs-phi-0022400004
+2025-06-30 21:22:08,580 - INFO - Processing game: min-vs-por-0022400008
+2025-06-30 21:22:08,580 - INFO - Added 172 shots to CSV
+2025-06-30 21:22:08,580 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:08,580 - INFO - Successfully processed nyk-vs-phi-0022400004: 172 shots
+2025-06-30 21:22:08,638 - INFO - Processing game: dal-vs-gsw-0022400007
+2025-06-30 21:22:08,639 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:08,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:08,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:08,737 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:08,769 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:08,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:08,822 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:09,143 - INFO - Found 180 shot elements for tor-vs-mil-0022400005
+2025-06-30 21:22:09,151 - INFO - Added 180 shots to CSV
+2025-06-30 21:22:09,152 - INFO - Successfully processed tor-vs-mil-0022400005: 180 shots
+2025-06-30 21:22:09,208 - INFO - Processing game: ind-vs-orl-0022400217
+2025-06-30 21:22:09,208 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:09,309 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:09,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:09,384 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:12,118 - INFO - Found 178 shot elements for phx-vs-uta-0022400006
+2025-06-30 21:22:12,128 - INFO - Added 178 shots to CSV
+2025-06-30 21:22:12,128 - INFO - Successfully processed phx-vs-uta-0022400006: 178 shots
+2025-06-30 21:22:12,187 - INFO - Processing game: nop-vs-okc-0022400221
+2025-06-30 21:22:12,188 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:12,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:12,389 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:12,431 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:13,607 - INFO - Found 178 shot elements for dal-vs-gsw-0022400007
+2025-06-30 21:22:13,616 - INFO - Added 178 shots to CSV
+2025-06-30 21:22:13,617 - INFO - Successfully processed dal-vs-gsw-0022400007: 178 shots
+2025-06-30 21:22:13,676 - INFO - Processing game: cle-vs-phi-0022400220
+2025-06-30 21:22:13,677 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:13,785 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:13,824 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:13,865 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:14,258 - INFO - Found 157 shot elements for min-vs-por-0022400008
+2025-06-30 21:22:14,265 - INFO - Added 157 shots to CSV
+2025-06-30 21:22:14,265 - INFO - Successfully processed min-vs-por-0022400008: 157 shots
+2025-06-30 21:22:14,322 - INFO - Processing game: chi-vs-nyk-0022400219
+2025-06-30 21:22:14,322 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:14,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:14,465 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:14,506 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:15,267 - INFO - Found 168 shot elements for ind-vs-orl-0022400217
+2025-06-30 21:22:15,274 - INFO - Added 168 shots to CSV
+2025-06-30 21:22:15,275 - INFO - Successfully processed ind-vs-orl-0022400217: 168 shots
+2025-06-30 21:22:15,334 - INFO - Processing game: bos-vs-bkn-0022400218
+2025-06-30 21:22:15,334 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:15,440 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:15,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:15,531 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:17,821 - INFO - Found 177 shot elements for cle-vs-phi-0022400220
+2025-06-30 21:22:17,830 - INFO - Added 177 shots to CSV
+2025-06-30 21:22:17,830 - INFO - Successfully processed cle-vs-phi-0022400220: 177 shots
+2025-06-30 21:22:17,889 - INFO - Processing game: was-vs-sas-0022400224
+2025-06-30 21:22:17,890 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:18,017 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:18,047 - INFO - Found 174 shot elements for nop-vs-okc-0022400221
+2025-06-30 21:22:18,056 - INFO - Added 174 shots to CSV
+2025-06-30 21:22:18,056 - INFO - Successfully processed nop-vs-okc-0022400221: 174 shots
+2025-06-30 21:22:18,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:18,169 - INFO - Found 176 shot elements for chi-vs-nyk-0022400219
+2025-06-30 21:22:18,178 - INFO - Processing game: det-vs-mil-0022400223
+2025-06-30 21:22:18,178 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:18,178 - INFO - Added 176 shots to CSV
+2025-06-30 21:22:18,178 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:18,179 - INFO - Successfully processed chi-vs-nyk-0022400219: 176 shots
+2025-06-30 21:22:18,239 - INFO - Processing game: lac-vs-hou-0022400222
+2025-06-30 21:22:18,240 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:18,296 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:18,335 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:18,365 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:18,374 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:18,402 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:18,440 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:19,353 - INFO - Found 172 shot elements for bos-vs-bkn-0022400218
+2025-06-30 21:22:19,360 - INFO - Added 172 shots to CSV
+2025-06-30 21:22:19,360 - INFO - Successfully processed bos-vs-bkn-0022400218: 172 shots
+2025-06-30 21:22:19,419 - INFO - Processing game: phx-vs-sac-0022400227
+2025-06-30 21:22:19,420 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:19,532 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:19,577 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:19,627 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:21,727 - INFO - Found 187 shot elements for was-vs-sas-0022400224
+2025-06-30 21:22:21,738 - INFO - Added 187 shots to CSV
+2025-06-30 21:22:21,739 - INFO - Successfully processed was-vs-sas-0022400224: 187 shots
+2025-06-30 21:22:21,800 - INFO - Processing game: min-vs-por-0022400226
+2025-06-30 21:22:21,800 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:21,892 - INFO - Found 195 shot elements for det-vs-mil-0022400223
+2025-06-30 21:22:21,901 - INFO - Added 176 shots to CSV
+2025-06-30 21:22:21,901 - INFO - Successfully processed det-vs-mil-0022400223: 176 shots
+2025-06-30 21:22:21,971 - INFO - Processing game: mem-vs-lal-0022400225
+2025-06-30 21:22:21,971 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:22,025 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:22,083 - INFO - Found 193 shot elements for lac-vs-hou-0022400222
+2025-06-30 21:22:22,092 - INFO - Added 193 shots to CSV
+2025-06-30 21:22:22,092 - INFO - Successfully processed lac-vs-hou-0022400222: 193 shots
+2025-06-30 21:22:22,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:22,144 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:22,147 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:22,152 - INFO - Processing game: dal-vs-uta-0022400228
+2025-06-30 21:22:22,152 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:22,186 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:22,224 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:22,265 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:22,307 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:22,350 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:24,069 - INFO - Found 175 shot elements for phx-vs-sac-0022400227
+2025-06-30 21:22:24,076 - INFO - Added 175 shots to CSV
+2025-06-30 21:22:24,076 - INFO - Successfully processed phx-vs-sac-0022400227: 175 shots
+2025-06-30 21:22:24,133 - INFO - Processing game: det-vs-tor-0022400011
+2025-06-30 21:22:24,133 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:24,228 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:24,272 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:24,314 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:26,555 - INFO - Found 174 shot elements for mem-vs-lal-0022400225
+2025-06-30 21:22:26,563 - INFO - Added 174 shots to CSV
+2025-06-30 21:22:26,563 - INFO - Successfully processed mem-vs-lal-0022400225: 174 shots
+2025-06-30 21:22:26,622 - INFO - Processing game: phi-vs-orl-0022400010
+2025-06-30 21:22:26,623 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:26,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:26,775 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:26,907 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:26,915 - INFO - Found 170 shot elements for dal-vs-uta-0022400228
+2025-06-30 21:22:26,961 - INFO - Added 170 shots to CSV
+2025-06-30 21:22:26,966 - INFO - Successfully processed dal-vs-uta-0022400228: 170 shots
+2025-06-30 21:22:26,976 - INFO - Found 177 shot elements for min-vs-por-0022400226
+2025-06-30 21:22:26,987 - INFO - Added 177 shots to CSV
+2025-06-30 21:22:26,987 - INFO - Successfully processed min-vs-por-0022400226: 177 shots
+2025-06-30 21:22:27,029 - INFO - Processing game: mia-vs-ind-0022400009
+2025-06-30 21:22:27,029 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:27,051 - INFO - Processing game: lal-vs-sas-0022400015
+2025-06-30 21:22:27,051 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:27,155 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:27,171 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:27,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:27,323 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:27,338 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:27,365 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:28,623 - INFO - Found 192 shot elements for det-vs-tor-0022400011
+2025-06-30 21:22:28,632 - INFO - Added 192 shots to CSV
+2025-06-30 21:22:28,632 - INFO - Successfully processed det-vs-tor-0022400011: 192 shots
+2025-06-30 21:22:28,690 - INFO - Processing game: bkn-vs-nyk-0022400014
+2025-06-30 21:22:28,690 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:28,796 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:28,876 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:28,934 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:30,869 - INFO - Found 173 shot elements for mia-vs-ind-0022400009
+2025-06-30 21:22:30,877 - INFO - Added 173 shots to CSV
+2025-06-30 21:22:30,877 - INFO - Successfully processed mia-vs-ind-0022400009: 173 shots
+2025-06-30 21:22:30,937 - INFO - Processing game: chi-vs-cle-0022400013
+2025-06-30 21:22:30,937 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:31,042 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:31,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:31,190 - INFO - Found 176 shot elements for lal-vs-sas-0022400015
+2025-06-30 21:22:31,197 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:31,245 - INFO - Added 176 shots to CSV
+2025-06-30 21:22:31,251 - INFO - Successfully processed lal-vs-sas-0022400015: 176 shots
+2025-06-30 21:22:31,279 - INFO - Found 150 shot elements for phi-vs-orl-0022400010
+2025-06-30 21:22:31,284 - INFO - Added 150 shots to CSV
+2025-06-30 21:22:31,284 - INFO - Successfully processed phi-vs-orl-0022400010: 150 shots
+2025-06-30 21:22:31,308 - INFO - Processing game: was-vs-atl-0022400012
+2025-06-30 21:22:31,309 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:31,342 - INFO - Processing game: phx-vs-okc-0022400018
+2025-06-30 21:22:31,342 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:31,424 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:31,456 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:31,462 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:31,492 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:31,503 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:31,533 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:34,599 - INFO - Found 172 shot elements for bkn-vs-nyk-0022400014
+2025-06-30 21:22:34,608 - INFO - Added 172 shots to CSV
+2025-06-30 21:22:34,608 - INFO - Successfully processed bkn-vs-nyk-0022400014: 172 shots
+2025-06-30 21:22:34,668 - INFO - Processing game: den-vs-nop-0022400017
+2025-06-30 21:22:34,668 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:34,786 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:34,826 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:34,871 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:35,948 - INFO - Found 181 shot elements for chi-vs-cle-0022400013
+2025-06-30 21:22:35,955 - INFO - Added 181 shots to CSV
+2025-06-30 21:22:35,955 - INFO - Successfully processed chi-vs-cle-0022400013: 181 shots
+2025-06-30 21:22:36,055 - INFO - Found 204 shot elements for was-vs-atl-0022400012
+2025-06-30 21:22:36,083 - INFO - Added 204 shots to CSV
+2025-06-30 21:22:36,088 - INFO - Processing game: lac-vs-hou-0022400016
+2025-06-30 21:22:36,088 - INFO - Successfully processed was-vs-atl-0022400012: 204 shots
+2025-06-30 21:22:36,103 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:36,188 - INFO - Found 166 shot elements for phx-vs-okc-0022400018
+2025-06-30 21:22:36,196 - INFO - Added 166 shots to CSV
+2025-06-30 21:22:36,196 - INFO - Successfully processed phx-vs-okc-0022400018: 166 shots
+2025-06-30 21:22:36,217 - INFO - Processing game: min-vs-sac-0022400020
+2025-06-30 21:22:36,217 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:36,253 - INFO - Processing game: mem-vs-gsw-0022400019
+2025-06-30 21:22:36,253 - INFO - ====== WebDriver manager ======
+2025-06-30 21:22:36,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:36,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:36,333 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:36,349 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:36,356 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:36,372 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:36,388 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-30 21:22:36,393 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
+2025-06-30 21:22:36,428 - INFO - Driver [/home/diego/.wdm/drivers/chromedriver/linux64/138.0.7204.49/chromedriver-linux64/chromedriver] found in cache
